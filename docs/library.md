@@ -7,6 +7,12 @@ hide:
 
 所有可下载的 PDF 都在这里。点击名称查看介绍，点击「下载」直接获取文件。
 
+## 身体
+
+| 名称 | 下载 |
+|---|---|
+| [睡眠图鉴](body/sleep/index.md) | [📥 下载](https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/sleep.pdf) |
+
 ## 北欧旅行百科
 
 | 名称 | 下载 |
