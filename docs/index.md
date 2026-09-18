@@ -17,9 +17,17 @@ hide:
 ## 📚 书架
 
 <!-- shelf:start -->
-<div class="om-shelf-filter" role="toolbar" aria-label="按系列筛选"><button class="om-chip is-on" data-filter="all">全部</button><button class="om-chip" data-filter="new">最新上架</button><button class="om-chip" data-filter="北欧旅行百科">北欧旅行百科</button><button class="om-chip" data-filter="法国城市百科">法国城市百科</button><button class="om-chip" data-filter="瑞士城市百科">瑞士城市百科</button><button class="om-chip" data-filter="加拿大城市百科">加拿大城市百科</button></div>
+<div class="om-shelf-filter" role="toolbar" aria-label="按系列筛选"><button class="om-chip is-on" data-filter="all">全部</button><button class="om-chip" data-filter="new">最新上架</button><button class="om-chip" data-filter="身体">身体</button><button class="om-chip" data-filter="北欧旅行百科">北欧旅行百科</button><button class="om-chip" data-filter="法国城市百科">法国城市百科</button><button class="om-chip" data-filter="瑞士城市百科">瑞士城市百科</button><button class="om-chip" data-filter="加拿大城市百科">加拿大城市百科</button></div>
 
 <div class="om-shelf">
+<div class="om-book" data-series="身体" data-file="sleep.pdf">
+<a class="om-book__link" href="body/sleep/">
+<span class="om-book__cover"><img src="images/covers/sleep.webp" alt="睡眠图鉴 封面" loading="lazy"></span>
+<span class="om-book__series">身体</span>
+<span class="om-book__title">睡眠图鉴</span>
+</a>
+<a class="om-book__dl" href="https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/sleep.pdf">📥 下载 PDF</a>
+</div>
 <div class="om-book" data-series="北欧旅行百科" data-file="iceland.pdf">
 <a class="om-book__link" href="world/europe/iceland/">
 <span class="om-book__cover"><img src="images/covers/iceland.webp" alt="冰岛 封面" loading="lazy"></span>
@@ -141,7 +149,7 @@ hide:
 
     [睡眠图鉴](body/sleep/index.md)
 
-    111 页 · 11 章 · 撰写中
+    119 页 · 11 章 · PDF 可下载
 
 -   **🧠 心灵**
 
