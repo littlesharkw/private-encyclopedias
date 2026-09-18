@@ -1,0 +1,140 @@
+site_name: 私人百科图鉴
+site_description: 一套按领域分类的私人百科图鉴
+site_url: https://littlesharkw.github.io/private-encyclopedias/
+repo_url: https://github.com/littlesharkw/private-encyclopedias
+copyright: 内容以 CC BY-NC 4.0 授权
+
+theme:
+  name: material
+  language: zh
+  font: false                  # 字体改由 extra.css 载入
+  icon:
+    logo: material/book-open-page-variant
+  features:
+    - navigation.tabs          # 领域作为顶部标签页
+    - navigation.sections
+    - navigation.indexes
+    - navigation.top           # 返回顶部按钮
+    - navigation.footer        # 上一页／下一页
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-night
+        name: 切换深色模式
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-sunny
+        name: 切换浅色模式
+
+extra_css:
+  - fonts/douyin-sans/fonts.css
+  - stylesheets/extra.css
+
+extra_javascript:
+  - javascripts/shelf.js
+
+plugins:
+  - search:
+      # 配合 requirements.txt 中的 jieba，让中文搜索支持分词
+      separator: '[\s\u200b\-_,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
+  - tags
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - attr_list
+  - md_in_html
+  - tables
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - toc:
+      permalink: true
+
+validation:
+  nav:
+    omitted_files: ignore      # 正文页面由 Master Index 链接，无需逐页写入 nav
+
+nav:
+  - 首页:
+    - index.md
+    - PDF 图书馆: library.md
+    - 标签索引: tags.md
+  - 🌿 自然:
+    - 植物图鉴: nature/plants/index.md
+  - 🫀 身体:
+    - 睡眠图鉴:
+      - body/sleep/index.md
+      - Master Index: body/sleep/master-index.md
+  - 🧠 心灵:
+    - 心理学图鉴: mind/psychology/index.md
+  - ✈️ 世界:
+    - world/index.md
+    - 亚洲:
+      - world/asia/index.md
+      - 中国:
+        - world/asia/china/index.md
+        - 北京: world/asia/china/beijing/index.md
+        - 天津: world/asia/china/tianjin/index.md
+        - 上海: world/asia/china/shanghai/index.md
+        - 香港: world/asia/china/hong-kong/index.md
+        - 河北省:
+          - world/asia/china/hebei/index.md
+          - 石家庄: world/asia/china/hebei/shijiazhuang/index.md
+        - 黑龙江省:
+          - world/asia/china/heilongjiang/index.md
+          - 哈尔滨: world/asia/china/heilongjiang/harbin/index.md
+        - 江苏省:
+          - world/asia/china/jiangsu/index.md
+          - 南京: world/asia/china/jiangsu/nanjing/index.md
+          - 苏州: world/asia/china/jiangsu/suzhou/index.md
+        - 陕西省:
+          - world/asia/china/shaanxi/index.md
+          - 西安: world/asia/china/shaanxi/xian/index.md
+      - 日本: world/asia/japan/index.md
+    - 欧洲:
+      - world/europe/index.md
+      - 冰岛: world/europe/iceland/index.md
+      - 法国:
+        - world/europe/france/index.md
+        - 普罗旺斯-阿尔卑斯-蓝色海岸大区:
+          - world/europe/france/provence-alpes-cote-dazur/index.md
+          - 尼斯 Nice: world/europe/france/provence-alpes-cote-dazur/nice/index.md
+          - 滨海自由城 Villefranche-sur-Mer: world/europe/france/provence-alpes-cote-dazur/villefranche-sur-mer/index.md
+          - 埃兹 Èze: world/europe/france/provence-alpes-cote-dazur/eze/index.md
+          - 芒通 Menton: world/europe/france/provence-alpes-cote-dazur/menton/index.md
+          - 卡西斯 Cassis: world/europe/france/provence-alpes-cote-dazur/cassis/index.md
+          - 马赛 Marseille: world/europe/france/provence-alpes-cote-dazur/marseille/index.md
+          - 阿维尼翁 Avignon: world/europe/france/provence-alpes-cote-dazur/avignon/index.md
+          - 阿尔勒 Arles: world/europe/france/provence-alpes-cote-dazur/arles/index.md
+        - 奥弗涅-罗讷-阿尔卑斯大区:
+          - world/europe/france/auvergne-rhone-alpes/index.md
+          - 里昂 Lyon: world/europe/france/auvergne-rhone-alpes/lyon/index.md
+      - 摩纳哥 Monaco: world/europe/monaco/index.md
+      - 意大利:
+        - world/europe/italy/index.md
+        - 撒丁岛: world/europe/italy/sardinia/index.md
+      - 瑞士:
+        - world/europe/switzerland/index.md
+        - 巴塞尔 Basel: world/europe/switzerland/basel/index.md
+    - 北美洲:
+      - world/north-america/index.md
+      - 加拿大:
+        - world/north-america/canada/index.md
+        - 安大略省:
+          - world/north-america/canada/ontario/index.md
+          - 伍德斯托克 Woodstock: world/north-america/canada/ontario/woodstock/index.md
+        - 新斯科舍省:
+          - world/north-america/canada/nova-scotia/index.md
+          - 哈利法克斯: world/north-america/canada/nova-scotia/halifax/index.md
+        - 爱德华王子岛省: world/north-america/canada/prince-edward-island/index.md
