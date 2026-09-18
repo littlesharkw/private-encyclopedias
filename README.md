@@ -14,7 +14,6 @@ docs/
 └── world/              ✈️ 世界（洲 › 国家 › 省／大区 › 城市，按需要分层）
     └── <图鉴>/
         ├── index.md          图鉴简介（版本、状态、免责声明）
-        ├── master-index.md   Master Index（唯一正本）
         └── pages/ch01/001.md 正文，文件名 = 页码
 templates/              新图鉴、新页面模板
 ```
