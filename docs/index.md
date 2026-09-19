@@ -17,7 +17,7 @@ hide:
 ## 📚 书架
 
 <!-- shelf:start -->
-<div class="om-shelf-filter" role="toolbar" aria-label="按系列筛选"><button class="om-chip is-on" data-filter="all">全部</button><button class="om-chip" data-filter="new">最新上架</button><button class="om-chip" data-filter="身体">身体</button><button class="om-chip" data-filter="北欧旅行百科">北欧旅行百科</button><button class="om-chip" data-filter="法国城市百科">法国城市百科</button><button class="om-chip" data-filter="瑞士城市百科">瑞士城市百科</button><button class="om-chip" data-filter="加拿大城市百科">加拿大城市百科</button></div>
+<div class="om-shelf-filter" role="toolbar" aria-label="按系列筛选"><button class="om-chip is-on" data-filter="all">全部</button><button class="om-chip" data-filter="new">最新上架</button><button class="om-chip" data-filter="身体">身体</button><button class="om-chip" data-filter="自然">自然</button><button class="om-chip" data-filter="北欧旅行百科">北欧旅行百科</button><button class="om-chip" data-filter="法国城市百科">法国城市百科</button><button class="om-chip" data-filter="瑞士城市百科">瑞士城市百科</button><button class="om-chip" data-filter="加拿大城市百科">加拿大城市百科</button></div>
 
 <div class="om-shelf">
 <div class="om-book" data-series="身体" data-file="sleep.pdf">
@@ -27,6 +27,14 @@ hide:
 <span class="om-book__title">睡眠图鉴</span>
 </a>
 <a class="om-book__dl" href="https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/sleep.pdf">📥 下载 PDF</a>
+</div>
+<div class="om-book" data-series="自然" data-file="flowers.pdf">
+<a class="om-book__link" href="nature/flowers/">
+<span class="om-book__cover"><img src="images/covers/flowers.webp" alt="花的观察图鉴 封面" loading="lazy"></span>
+<span class="om-book__series">自然</span>
+<span class="om-book__title">花的观察图鉴</span>
+</a>
+<a class="om-book__dl" href="https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/flowers.pdf">📥 下载 PDF</a>
 </div>
 <div class="om-book" data-series="北欧旅行百科" data-file="iceland.pdf">
 <a class="om-book__link" href="world/europe/iceland/">
@@ -163,9 +171,9 @@ hide:
 
     ---
 
-    [植物图鉴](nature/plants/index.md)
+    [花的观察图鉴](nature/flowers/index.md)
 
-    规划中
+    80 个主题 · 8 部分 · PDF 可下载
 
 -   **✈️ 世界**
 

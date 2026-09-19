@@ -13,6 +13,12 @@ hide:
 |---|---|
 | [睡眠图鉴](body/sleep/index.md) | [📥 下载](https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/sleep.pdf) |
 
+## 自然
+
+| 名称 | 下载 |
+|---|---|
+| [花的观察图鉴](nature/flowers/index.md) | [📥 下载](https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/flowers.pdf) |
+
 ## 北欧旅行百科
 
 | 名称 | 下载 |
