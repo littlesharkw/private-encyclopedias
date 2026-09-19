@@ -11,7 +11,7 @@ hide:
 # 私人百科图鉴
 
 <div class="om-rule"></div>
-<p class="om-lede">按领域整理的百科图鉴。每本从一份 Master Index 出发，逐页撰写，慢慢积累。</p>
+<p class="om-lede">按领域整理的百科图鉴。从睡眠、花，到一座座城市，慢慢积累。</p>
 </div>
 
 ## 📚 书架
@@ -188,7 +188,7 @@ hide:
 ## 阅读方式
 
 - 用顶部标签页切换领域，在左侧目录选择图鉴
-- 每本图鉴建议先看 **Master Index**，再按页码阅读
+- 每本图鉴的页面都有简介、关键词与目录，点下载即可取得完整 PDF
 - 可在右上角搜索关键词，或前往 [标签索引](tags.md) 按主题查找
 
 [浏览标签索引](tags.md){ .md-button } [进入睡眠图鉴](body/sleep/index.md){ .md-button .md-button--primary }
