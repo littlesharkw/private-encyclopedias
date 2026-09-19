@@ -71,10 +71,11 @@ nav:
     - PDF 图书馆: library.md
     - 标签索引: tags.md
   - 🌿 自然:
-    - 植物图鉴: nature/plants/index.md
+    - 花的观察图鉴: nature/flowers/index.md
   - 🫀 身体:
     - 睡眠图鉴:
       - body/sleep/index.md
+      - Master Index: body/sleep/master-index.md
   - 🧠 心灵:
     - 心理学图鉴: mind/psychology/index.md
   - ✈️ 世界:
