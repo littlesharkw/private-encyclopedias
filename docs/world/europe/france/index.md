@@ -17,6 +17,7 @@ tags:
 
 - [普罗旺斯-阿尔卑斯-蓝色海岸大区](provence-alpes-cote-dazur/index.md)
 - [奥弗涅-罗讷-阿尔卑斯大区](auvergne-rhone-alpes/index.md)
+- [奥克西塔尼大区](occitanie/index.md)
 
 ## 概览
 

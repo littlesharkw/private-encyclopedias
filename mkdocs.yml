@@ -76,6 +76,8 @@ nav:
     - 睡眠图鉴: body/sleep/index.md
   - 🧠 心灵:
     - 心理学图鉴: mind/psychology/index.md
+  - 🔬 科技:
+    - 量子计算机图鉴: tech/quantum/index.md
   - ✈️ 世界:
     - world/index.md
     - 亚洲:
@@ -115,9 +117,13 @@ nav:
           - 马赛 Marseille: world/europe/france/provence-alpes-cote-dazur/marseille/index.md
           - 阿维尼翁 Avignon: world/europe/france/provence-alpes-cote-dazur/avignon/index.md
           - 阿尔勒 Arles: world/europe/france/provence-alpes-cote-dazur/arles/index.md
+          - 普罗旺斯艾克斯 Aix-en-Provence: world/europe/france/provence-alpes-cote-dazur/aix-en-provence/index.md
         - 奥弗涅-罗讷-阿尔卑斯大区:
           - world/europe/france/auvergne-rhone-alpes/index.md
           - 里昂 Lyon: world/europe/france/auvergne-rhone-alpes/lyon/index.md
+        - 奥克西塔尼大区:
+          - world/europe/france/occitanie/index.md
+          - 尼姆 Nîmes: world/europe/france/occitanie/nimes/index.md
       - 摩纳哥 Monaco: world/europe/monaco/index.md
       - 意大利:
         - world/europe/italy/index.md
@@ -132,6 +138,7 @@ nav:
         - 安大略省:
           - world/north-america/canada/ontario/index.md
           - 伍德斯托克 Woodstock: world/north-america/canada/ontario/woodstock/index.md
+          - 安省鲜奶图鉴: world/north-america/canada/ontario/dairy-trail/index.md
         - 新斯科舍省:
           - world/north-america/canada/nova-scotia/index.md
           - 哈利法克斯: world/north-america/canada/nova-scotia/halifax/index.md

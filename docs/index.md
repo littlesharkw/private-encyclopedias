@@ -17,7 +17,7 @@ hide:
 ## 📚 书架
 
 <!-- shelf:start -->
-<div class="om-shelf-filter" role="toolbar" aria-label="按系列筛选"><button class="om-chip is-on" data-filter="all">全部</button><button class="om-chip" data-filter="new">最新上架</button><button class="om-chip" data-filter="身体">身体</button><button class="om-chip" data-filter="自然">自然</button><button class="om-chip" data-filter="北欧旅行百科">北欧旅行百科</button><button class="om-chip" data-filter="法国城市百科">法国城市百科</button><button class="om-chip" data-filter="瑞士城市百科">瑞士城市百科</button><button class="om-chip" data-filter="加拿大城市百科">加拿大城市百科</button></div>
+<div class="om-shelf-filter" role="toolbar" aria-label="按系列筛选"><button class="om-chip is-on" data-filter="all">全部</button><button class="om-chip" data-filter="new">最新上架</button><button class="om-chip" data-filter="身体">身体</button><button class="om-chip" data-filter="自然">自然</button><button class="om-chip" data-filter="科技">科技</button><button class="om-chip" data-filter="北欧旅行百科">北欧旅行百科</button><button class="om-chip" data-filter="法国城市百科">法国城市百科</button><button class="om-chip" data-filter="瑞士城市百科">瑞士城市百科</button><button class="om-chip" data-filter="加拿大城市百科">加拿大城市百科</button><button class="om-chip" data-filter="加拿大主题图鉴">加拿大主题图鉴</button></div>
 
 <div class="om-shelf">
 <div class="om-book" data-series="身体" data-file="sleep.pdf">
@@ -35,6 +35,14 @@ hide:
 <span class="om-book__title">花的观察图鉴</span>
 </a>
 <a class="om-book__dl" href="https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/flowers.pdf">📥 下载 PDF</a>
+</div>
+<div class="om-book" data-series="科技" data-file="quantum.pdf">
+<a class="om-book__link" href="tech/quantum/">
+<span class="om-book__cover"><img src="images/covers/quantum.webp" alt="量子计算机图鉴 封面" loading="lazy"></span>
+<span class="om-book__series">科技</span>
+<span class="om-book__title">量子计算机图鉴</span>
+</a>
+<a class="om-book__dl" href="https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/quantum.pdf">📥 下载 PDF</a>
 </div>
 <div class="om-book" data-series="北欧旅行百科" data-file="iceland.pdf">
 <a class="om-book__link" href="world/europe/iceland/">
@@ -108,6 +116,22 @@ hide:
 </a>
 <a class="om-book__dl" href="https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/arles.pdf">📥 下载 PDF</a>
 </div>
+<div class="om-book" data-series="法国城市百科" data-file="aix-en-provence.pdf">
+<a class="om-book__link" href="world/europe/france/provence-alpes-cote-dazur/aix-en-provence/">
+<span class="om-book__cover"><img src="images/covers/aix-en-provence.webp" alt="普罗旺斯艾克斯 Aix-en-Provence 封面" loading="lazy"></span>
+<span class="om-book__series">法国城市百科</span>
+<span class="om-book__title">普罗旺斯艾克斯 Aix-en-Provence</span>
+</a>
+<a class="om-book__dl" href="https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/aix-en-provence.pdf">📥 下载 PDF</a>
+</div>
+<div class="om-book" data-series="法国城市百科" data-file="nimes.pdf">
+<a class="om-book__link" href="world/europe/france/occitanie/nimes/">
+<span class="om-book__cover"><img src="images/covers/nimes.webp" alt="尼姆 Nîmes 封面" loading="lazy"></span>
+<span class="om-book__series">法国城市百科</span>
+<span class="om-book__title">尼姆 Nîmes</span>
+</a>
+<a class="om-book__dl" href="https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/nimes.pdf">📥 下载 PDF</a>
+</div>
 <div class="om-book" data-series="法国城市百科" data-file="lyon.pdf">
 <a class="om-book__link" href="world/europe/france/auvergne-rhone-alpes/lyon/">
 <span class="om-book__cover"><img src="images/covers/lyon.webp" alt="里昂 Lyon 封面" loading="lazy"></span>
@@ -139,6 +163,14 @@ hide:
 <span class="om-book__title">伍德斯托克 Woodstock</span>
 </a>
 <a class="om-book__dl" href="https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/woodstock.pdf">📥 下载 PDF</a>
+</div>
+<div class="om-book" data-series="加拿大主题图鉴" data-file="ontario-dairy.pdf">
+<a class="om-book__link" href="world/north-america/canada/ontario/dairy-trail/">
+<span class="om-book__cover"><img src="images/covers/ontario-dairy.webp" alt="安省鲜奶图鉴 封面" loading="lazy"></span>
+<span class="om-book__series">加拿大主题图鉴</span>
+<span class="om-book__title">安省鲜奶图鉴</span>
+</a>
+<a class="om-book__dl" href="https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/ontario-dairy.pdf">📥 下载 PDF</a>
 </div>
 </div>
 <!-- shelf:end -->
@@ -175,13 +207,21 @@ hide:
 
     80 个主题 · 8 部分 · PDF 可下载
 
+-   **🔬 科技**
+
+    ---
+
+    [量子计算机图鉴](tech/quantum/index.md)
+
+    51 个主题 · 8 部分 · PDF 可下载
+
 -   **✈️ 世界**
 
     ---
 
     [深度旅行图鉴](world/index.md)
 
-    洲 › 国家 › 省 › 城市
+    法国、瑞士、冰岛、加拿大
 
 </div>
 

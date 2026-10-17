@@ -23,6 +23,7 @@ tags:
 - [马赛 Marseille](marseille/index.md)　📥
 - [阿维尼翁 Avignon](avignon/index.md)　📥
 - [阿尔勒 Arles](arles/index.md)　📥
+- [普罗旺斯艾克斯 Aix-en-Provence](aix-en-provence/index.md)　📥
 
 ## 概览
 

@@ -19,6 +19,12 @@ hide:
 |---|---|
 | [花的观察图鉴](nature/flowers/index.md) | [📥 下载](https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/flowers.pdf) |
 
+## 科技
+
+| 名称 | 下载 |
+|---|---|
+| [量子计算机图鉴](tech/quantum/index.md) | [📥 下载](https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/quantum.pdf) |
+
 ## 北欧旅行百科
 
 | 名称 | 下载 |
@@ -37,6 +43,8 @@ hide:
 | [马赛 Marseille](world/europe/france/provence-alpes-cote-dazur/marseille/index.md) | [📥 下载](https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/marseille.pdf) |
 | [阿维尼翁 Avignon](world/europe/france/provence-alpes-cote-dazur/avignon/index.md) | [📥 下载](https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/avignon.pdf) |
 | [阿尔勒 Arles](world/europe/france/provence-alpes-cote-dazur/arles/index.md) | [📥 下载](https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/arles.pdf) |
+| [普罗旺斯艾克斯 Aix-en-Provence](world/europe/france/provence-alpes-cote-dazur/aix-en-provence/index.md) | [📥 下载](https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/aix-en-provence.pdf) |
+| [尼姆 Nîmes](world/europe/france/occitanie/nimes/index.md) | [📥 下载](https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/nimes.pdf) |
 | [里昂 Lyon](world/europe/france/auvergne-rhone-alpes/lyon/index.md) | [📥 下载](https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/lyon.pdf) |
 | [摩纳哥 Monaco](world/europe/monaco/index.md) | [📥 下载](https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/monaco.pdf) |
 
@@ -51,3 +59,9 @@ hide:
 | 名称 | 下载 |
 |---|---|
 | [伍德斯托克 Woodstock](world/north-america/canada/ontario/woodstock/index.md) | [📥 下载](https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/woodstock.pdf) |
+
+## 加拿大主题图鉴
+
+| 名称 | 下载 |
+|---|---|
+| [安省鲜奶图鉴](world/north-america/canada/ontario/dairy-trail/index.md) | [📥 下载](https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/ontario-dairy.pdf) |
