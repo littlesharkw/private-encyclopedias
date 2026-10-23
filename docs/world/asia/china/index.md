@@ -8,22 +8,6 @@ tags:
 
 位置：世界 › 亚洲 › **中国**
 
-| 项目 | 内容 |
-|---|---|
-| 层级 | 国家 |
-| 状态 | 📝 规划中 |
+<p class="om-empty">这一区暂时还没有图鉴，内容陆续补上。</p>
 
-## 下级目录
-
-- [北京](beijing/index.md)
-- [天津](tianjin/index.md)
-- [上海](shanghai/index.md)
-- [香港](hong-kong/index.md)
-- [河北省](hebei/index.md)
-- [黑龙江省](heilongjiang/index.md)
-- [江苏省](jiangsu/index.md)
-- [陕西省](shaanxi/index.md)
-
-## 概览
-
-（内容待补充）
+<p class="om-levels" markdown>下一层：[陕西省](shaanxi/)、[江苏省](jiangsu/)、[河北省](hebei/)、[黑龙江省](heilongjiang/)、[香港](hong-kong/)、[天津](tianjin/)、[北京](beijing/)、[上海](shanghai/)</p>

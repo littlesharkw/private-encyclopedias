@@ -8,16 +8,6 @@ tags:
 
 位置：世界 › **亚洲**
 
-| 项目 | 内容 |
-|---|---|
-| 层级 | 洲 |
-| 状态 | 📝 规划中 |
+<p class="om-empty">这一区暂时还没有图鉴，内容陆续补上。</p>
 
-## 下级目录
-
-- [中国](china/index.md)
-- [日本](japan/index.md)
-
-## 概览
-
-（内容待补充）
+<p class="om-levels" markdown>下一层：[日本](japan/)、[中国](china/)</p>

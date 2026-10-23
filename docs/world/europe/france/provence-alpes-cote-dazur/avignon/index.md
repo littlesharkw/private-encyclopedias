@@ -21,12 +21,9 @@ tags:
 
 <div class="om-pdfhead__info" markdown>
 
-| 项目 | 内容 |
-|---|---|
-| 层级 | 城市 |
-| 系列 | 法国城市百科 |
-| 格式 | PDF |
-| 状态 | ✅ 可下载 |
+<p class="om-series">法国城市百科</p>
+
+<p class="om-size">9 个主题</p>
 
 [📥 下载 PDF：法国城市百科 · 阿维尼翁 Avignon](https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/avignon.pdf){ .md-button .md-button--primary }
 

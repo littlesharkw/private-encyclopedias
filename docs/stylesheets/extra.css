@@ -56,15 +56,18 @@
 /* ---------- 字体 ---------- */
 :root {
   --om-title-font: "DouyinSans", "Noto Sans SC", "PingFang SC", "Microsoft YaHei", sans-serif;
-  --md-text-font: "DouyinSans", "PingFang SC", "Microsoft YaHei", sans-serif;
+  --md-text-font: "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "Noto Sans CJK SC", sans-serif;
   --md-code-font: ui-monospace, "SF Mono", Menlo, monospace;
 }
-body {
-  font-family: var(--md-text-font);
-  font-synthesis: none;          /* 只有一个字重，禁止浏览器伪造粗体/斜体 */
+body { font-family: var(--md-text-font); }
+.md-typeset strong, .md-typeset b { font-weight: 600; }
+/* 标题用抖音美好体，它只有一个字重，禁止浏览器再伪造粗体 */
+.md-typeset h1, .md-typeset h2, .md-typeset h3,
+.md-header__topic, .om-book__title, .md-typeset .grid.cards strong {
+  font-synthesis: none;
 }
-.md-typeset strong, .md-typeset b { color: var(--om-burgundy); }  /* 用颜色代替加粗 */
-.md-typeset { font-size: .8rem; line-height: 1.9; letter-spacing: .02em; }
+.md-typeset { font-size: .8rem; line-height: 1.85; letter-spacing: .01em; }
+.md-typeset p { max-width: 42em; }
 
 .md-typeset h1,
 .md-typeset h2,
@@ -330,3 +333,25 @@ body {
   .om-shelf-filter { flex-wrap: nowrap; overflow-x: auto; padding-bottom: .3rem; -webkit-overflow-scrolling: touch; }
   .md-typeset .om-chip { flex-shrink: 0; }
 }
+
+/* ---------- 目录页：图鉴所在位置的小字说明 ---------- */
+.md-typeset .om-ctx { font-size: .74em; color: var(--om-muted); letter-spacing: .02em; }
+
+/* ---------- 图鉴页：封面旁的信息 ---------- */
+.om-pdfhead__info > .om-series { margin: 0 0 .2rem; }
+.md-typeset .om-series a, .md-typeset .om-series {
+  font-size: .72rem; letter-spacing: .1em; color: var(--om-camel); text-decoration: none;
+}
+.md-typeset .om-series a:hover { color: var(--om-burgundy); }
+.md-typeset .om-size { margin: 0 0 1.2rem; color: var(--om-muted); font-size: .76rem; }
+.md-typeset .om-pdfhead__info .md-button { margin-top: 0; }
+
+/* ---------- 目录页 ---------- */
+.md-typeset .om-count { color: var(--om-muted); font-size: .76rem; margin: -.4rem 0 1.6rem; }
+.om-group { margin: 1.8rem 0 .7rem; font-size: .72rem; letter-spacing: .1em; color: var(--om-camel); }
+.om-group:first-of-type { margin-top: 1rem; }
+.md-typeset .om-levels { font-size: .74rem; color: var(--om-muted); margin-top: 2.4rem;
+  padding-top: 1rem; border-top: 1px solid var(--om-line); }
+.md-typeset .om-levels a { color: var(--om-muted); text-decoration: none; }
+.md-typeset .om-levels a:hover { color: var(--om-camel); }
+.om-empty { color: var(--om-muted); font-size: .78rem; }

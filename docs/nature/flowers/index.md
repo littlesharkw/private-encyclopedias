@@ -14,12 +14,9 @@ tags:
 
 <div class="om-pdfhead__info" markdown>
 
-| 项目 | 内容 |
-|---|---|
-| 版本 | v1.0 |
-| 规模 | 80 个主题（001–080）／8 个部分 |
-| 格式 | PDF |
-| 状态 | ✅ 可下载 |
+<p class="om-series">自然</p>
+
+<p class="om-size">80 个主题（001–080）／8 个部分</p>
 
 [📥 下载 PDF：花的观察图鉴（v1.0）](https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/flowers.pdf){ .md-button .md-button--primary }
 

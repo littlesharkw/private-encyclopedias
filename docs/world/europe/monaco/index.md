@@ -22,12 +22,9 @@ tags:
 
 <div class="om-pdfhead__info" markdown>
 
-| 项目 | 内容 |
-|---|---|
-| 层级 | 国家 |
-| 系列 | 法国城市百科 |
-| 格式 | PDF |
-| 状态 | ✅ 可下载 |
+<p class="om-series">法国城市百科</p>
+
+<p class="om-size">10 个主题</p>
 
 [📥 下载 PDF：法国城市百科 · 摩纳哥 Monaco](https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/monaco.pdf){ .md-button .md-button--primary }
 

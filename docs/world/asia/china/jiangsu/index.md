@@ -8,16 +8,6 @@ tags:
 
 位置：世界 › 亚洲 › 中国 › **江苏省**
 
-| 项目 | 内容 |
-|---|---|
-| 层级 | 省 |
-| 状态 | 📝 规划中 |
+<p class="om-empty">这一区暂时还没有图鉴，内容陆续补上。</p>
 
-## 下级目录
-
-- [南京](nanjing/index.md)
-- [苏州](suzhou/index.md)
-
-## 概览
-
-（内容待补充）
+<p class="om-levels" markdown>下一层：[苏州](suzhou/)、[南京](nanjing/)</p>

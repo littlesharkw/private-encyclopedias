@@ -13,12 +13,9 @@ tags:
 
 <div class="om-pdfhead__info" markdown>
 
-| 项目 | 内容 |
-|---|---|
-| 版本 | v1.0 |
-| 规模 | 119 页（000–118）／11 章 |
-| 格式 | PDF |
-| 状态 | ✅ 可下载 |
+<p class="om-series">身体</p>
+
+<p class="om-size">119 页（000–118）／11 章</p>
 
 [📥 下载 PDF：睡眠 · 私人百科图鉴（v1.0）](https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/sleep.pdf){ .md-button .md-button--primary }
 

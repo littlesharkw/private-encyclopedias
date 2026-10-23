@@ -19,12 +19,9 @@ tags:
 
 <div class="om-pdfhead__info" markdown>
 
-| 项目 | 内容 |
-|---|---|
-| 层级 | 城市 |
-| 系列 | 加拿大城市百科 |
-| 格式 | PDF |
-| 状态 | ✅ 可下载 |
+<p class="om-series">加拿大城市百科</p>
+
+<p class="om-size">10 个主题</p>
 
 [📥 下载 PDF：加拿大城市百科 · 伍德斯托克 Woodstock](https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/woodstock.pdf){ .md-button .md-button--primary }
 

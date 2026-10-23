@@ -20,12 +20,9 @@ tags:
 
 <div class="om-pdfhead__info" markdown>
 
-| 项目 | 内容 |
-|---|---|
-| 层级 | 国家 |
-| 系列 | 北欧旅行百科 |
-| 格式 | PDF |
-| 状态 | ✅ 可下载 |
+<p class="om-series">北欧旅行百科</p>
+
+<p class="om-size">8 个主题</p>
 
 [📥 下载 PDF：北欧旅行百科 · 冰岛](https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/iceland.pdf){ .md-button .md-button--primary }
 

@@ -20,13 +20,9 @@ tags:
 
 <div class="om-pdfhead__info" markdown>
 
-| 项目 | 内容 |
-|---|---|
-| 层级 | 主题路线 |
-| 系列 | 加拿大主题图鉴 |
-| 规模 | 53 个主题（001–053）／7 个部分 |
-| 格式 | PDF |
-| 状态 | ✅ 可下载 |
+<p class="om-series">加拿大主题图鉴</p>
+
+<p class="om-size">53 个主题（001–053）／7 个部分</p>
 
 [📥 下载 PDF：加拿大主题图鉴 · 安省鲜奶图鉴](https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/ontario-dairy.pdf){ .md-button .md-button--primary }
 

@@ -20,12 +20,9 @@ tags:
 
 <div class="om-pdfhead__info" markdown>
 
-| 项目 | 内容 |
-|---|---|
-| 层级 | 城市 |
-| 系列 | 法国城市百科 |
-| 格式 | PDF |
-| 状态 | ✅ 可下载 |
+<p class="om-series">法国城市百科</p>
+
+<p class="om-size">2 个主题</p>
 
 [📥 下载 PDF：法国城市百科 · 阿尔勒 Arles](https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/arles.pdf){ .md-button .md-button--primary }
 

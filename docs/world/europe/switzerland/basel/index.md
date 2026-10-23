@@ -20,12 +20,9 @@ tags:
 
 <div class="om-pdfhead__info" markdown>
 
-| 项目 | 内容 |
-|---|---|
-| 层级 | 城市 |
-| 系列 | 瑞士城市百科 |
-| 格式 | PDF |
-| 状态 | ✅ 可下载 |
+<p class="om-series">瑞士城市百科</p>
+
+<p class="om-size">4 个主题</p>
 
 [📥 下载 PDF：瑞士城市百科 · 巴塞尔 Basel](https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/basel.pdf){ .md-button .md-button--primary }
 
