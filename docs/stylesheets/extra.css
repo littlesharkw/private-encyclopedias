@@ -355,3 +355,4 @@ body { font-family: var(--md-text-font); }
 .md-typeset .om-levels a { color: var(--om-muted); text-decoration: none; }
 .md-typeset .om-levels a:hover { color: var(--om-camel); }
 .om-empty { color: var(--om-muted); font-size: .78rem; }
+.om-shelf-empty { margin: .4rem 0 0; }
