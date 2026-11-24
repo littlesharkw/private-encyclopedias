@@ -27,4 +27,4 @@ tags:
 </div>
 </div>
 
-<p class="om-levels" markdown>下一层：[新斯科舍省](nova-scotia/)、[爱德华王子岛省](prince-edward-island/)、[安大略省](ontario/)</p>
+<p class="om-levels" markdown>下一层：[安大略省](ontario/)、[新斯科舍省](nova-scotia/)、[爱德华王子岛省](prince-edward-island/)</p>

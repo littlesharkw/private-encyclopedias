@@ -90,4 +90,4 @@ tags:
 </div>
 </div>
 
-<p class="om-levels" markdown>下一层：[普罗旺斯-阿尔卑斯-蓝色海岸大区](provence-alpes-cote-dazur/)、[奥弗涅-罗讷-阿尔卑斯大区](auvergne-rhone-alpes/)、[奥克西塔尼大区](occitanie/)</p>
+<p class="om-levels" markdown>下一层：[奥克西塔尼大区](occitanie/)、[奥弗涅-罗讷-阿尔卑斯大区](auvergne-rhone-alpes/)、[普罗旺斯-阿尔卑斯-蓝色海岸大区](provence-alpes-cote-dazur/)</p>

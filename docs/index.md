@@ -17,7 +17,7 @@ hide:
 ## 📚 书架
 
 <!-- shelf:start -->
-<div class="om-shelf-filter" role="toolbar" aria-label="按系列筛选"><button class="om-chip is-on" data-filter="all">全部</button><button class="om-chip" data-filter="new">最新上架</button><button class="om-chip" data-filter="身体">身体</button><button class="om-chip" data-filter="自然">自然</button><button class="om-chip" data-filter="科技">科技</button><button class="om-chip" data-filter="北欧旅行百科">北欧旅行百科</button><button class="om-chip" data-filter="法国城市百科">法国城市百科</button><button class="om-chip" data-filter="瑞士城市百科">瑞士城市百科</button><button class="om-chip" data-filter="加拿大城市百科">加拿大城市百科</button><button class="om-chip" data-filter="加拿大主题图鉴">加拿大主题图鉴</button></div>
+<div class="om-shelf-filter" role="toolbar" aria-label="按系列筛选"><button class="om-chip is-on" data-filter="all">全部</button><button class="om-chip" data-filter="new">最新上架</button><button class="om-chip" data-filter="身体">身体</button><button class="om-chip" data-filter="自然">自然</button><button class="om-chip" data-filter="科技">科技</button><button class="om-chip" data-filter="北欧旅行百科">北欧旅行百科</button><button class="om-chip" data-filter="中国城市百科">中国城市百科</button><button class="om-chip" data-filter="法国城市百科">法国城市百科</button><button class="om-chip" data-filter="瑞士城市百科">瑞士城市百科</button><button class="om-chip" data-filter="加拿大城市百科">加拿大城市百科</button><button class="om-chip" data-filter="加拿大主题图鉴">加拿大主题图鉴</button><button class="om-chip" data-filter="美国城市百科">美国城市百科</button></div>
 
 <div class="om-shelf">
 <div class="om-book" data-series="身体" data-file="sleep.pdf">
@@ -51,6 +51,14 @@ hide:
 <span class="om-book__title">冰岛</span>
 </a>
 <a class="om-book__dl" href="https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/iceland.pdf">📥 下载 PDF</a>
+</div>
+<div class="om-book" data-series="中国城市百科" data-file="beijing.pdf">
+<a class="om-book__link" href="world/asia/china/beijing/">
+<span class="om-book__cover"><img src="images/covers/beijing.webp" alt="北京 封面" loading="lazy"></span>
+<span class="om-book__series">中国城市百科</span>
+<span class="om-book__title">北京</span>
+</a>
+<a class="om-book__dl" href="https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/beijing.pdf">📥 下载 PDF</a>
 </div>
 <div class="om-book" data-series="法国城市百科" data-file="nice.pdf">
 <a class="om-book__link" href="world/europe/france/provence-alpes-cote-dazur/nice/">
@@ -172,6 +180,14 @@ hide:
 </a>
 <a class="om-book__dl" href="https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/ontario-dairy.pdf">📥 下载 PDF</a>
 </div>
+<div class="om-book" data-series="美国城市百科" data-file="seattle.pdf">
+<a class="om-book__link" href="world/north-america/usa/washington/seattle/">
+<span class="om-book__cover"><img src="images/covers/seattle.webp" alt="西雅图 Seattle 封面" loading="lazy"></span>
+<span class="om-book__series">美国城市百科</span>
+<span class="om-book__title">西雅图 Seattle</span>
+</a>
+<a class="om-book__dl" href="https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/seattle.pdf">📥 下载 PDF</a>
+</div>
 </div>
 <!-- shelf:end -->
 
@@ -221,7 +237,7 @@ hide:
 
     [深度旅行图鉴](world/index.md)
 
-    法国、瑞士、冰岛、加拿大
+    法国、瑞士、冰岛、中国、美国、加拿大
 
 </div>
 

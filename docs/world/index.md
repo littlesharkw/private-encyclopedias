@@ -5,9 +5,16 @@ tags:
 
 # 世界 · 深度旅行图鉴
 
-<p class="om-count">16 本可下载的图鉴</p>
+<p class="om-count">18 本可下载的图鉴</p>
 
 <div class="om-shelf">
+<div class="om-book">
+<a class="om-book__link" href="asia/china/beijing/">
+<span class="om-book__cover"><img src="../images/covers/beijing.webp" alt="北京 封面" loading="lazy"></span>
+<span class="om-book__series">亚洲 › 中国</span>
+<span class="om-book__title">北京</span>
+</a>
+</div>
 <div class="om-book">
 <a class="om-book__link" href="europe/france/auvergne-rhone-alpes/lyon/">
 <span class="om-book__cover"><img src="../images/covers/lyon.webp" alt="里昂 Lyon 封面" loading="lazy"></span>
@@ -120,6 +127,13 @@ tags:
 <span class="om-book__title">伍德斯托克 Woodstock</span>
 </a>
 </div>
+<div class="om-book">
+<a class="om-book__link" href="north-america/usa/washington/seattle/">
+<span class="om-book__cover"><img src="../images/covers/seattle.webp" alt="西雅图 Seattle 封面" loading="lazy"></span>
+<span class="om-book__series">北美洲 › 美国 › 华盛顿州</span>
+<span class="om-book__title">西雅图 Seattle</span>
+</a>
+</div>
 </div>
 
-<p class="om-levels" markdown>按洲浏览：[北美洲](north-america/)、[亚洲](asia/)、[欧洲](europe/)</p>
+<p class="om-levels" markdown>按洲浏览：[亚洲](asia/)、[北美洲](north-america/)、[欧洲](europe/)</p>

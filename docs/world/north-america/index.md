@@ -8,7 +8,7 @@ tags:
 
 位置：世界 › **北美洲**
 
-<p class="om-count">2 本可下载的图鉴</p>
+<p class="om-count">3 本可下载的图鉴</p>
 
 <div class="om-shelf">
 <div class="om-book">
@@ -25,6 +25,13 @@ tags:
 <span class="om-book__title">伍德斯托克 Woodstock</span>
 </a>
 </div>
+<div class="om-book">
+<a class="om-book__link" href="usa/washington/seattle/">
+<span class="om-book__cover"><img src="../../images/covers/seattle.webp" alt="西雅图 Seattle 封面" loading="lazy"></span>
+<span class="om-book__series">美国 › 华盛顿州</span>
+<span class="om-book__title">西雅图 Seattle</span>
+</a>
+</div>
 </div>
 
-<p class="om-levels" markdown>下一层：[加拿大](canada/)</p>
+<p class="om-levels" markdown>下一层：[加拿大](canada/)、[美国](usa/)</p>

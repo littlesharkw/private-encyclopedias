@@ -133,6 +133,11 @@ nav:
         - 巴塞尔 Basel: world/europe/switzerland/basel/index.md
     - 北美洲:
       - world/north-america/index.md
+      - 美国:
+        - world/north-america/usa/index.md
+        - 华盛顿州:
+          - world/north-america/usa/washington/index.md
+          - 西雅图 Seattle: world/north-america/usa/washington/seattle/index.md
       - 加拿大:
         - world/north-america/canada/index.md
         - 安大略省:

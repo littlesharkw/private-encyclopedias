@@ -31,6 +31,12 @@ hide:
 |---|---|
 | [冰岛](world/europe/iceland/index.md) | [📥 下载](https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/iceland.pdf) |
 
+## 中国城市百科
+
+| 名称 | 下载 |
+|---|---|
+| [北京](world/asia/china/beijing/index.md) | [📥 下载](https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/beijing.pdf) |
+
 ## 法国城市百科
 
 | 名称 | 下载 |
@@ -65,3 +71,9 @@ hide:
 | 名称 | 下载 |
 |---|---|
 | [安省鲜奶图鉴](world/north-america/canada/ontario/dairy-trail/index.md) | [📥 下载](https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/ontario-dairy.pdf) |
+
+## 美国城市百科
+
+| 名称 | 下载 |
+|---|---|
+| [西雅图 Seattle](world/north-america/usa/washington/seattle/index.md) | [📥 下载](https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/seattle.pdf) |

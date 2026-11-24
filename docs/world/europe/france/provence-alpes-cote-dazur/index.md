@@ -76,4 +76,4 @@ tags:
 </div>
 </div>
 
-<p class="om-levels" markdown>下一层：[卡西斯 Cassis](cassis/)、[马赛 Marseille](marseille/)、[阿尔勒 Arles](arles/)、[阿维尼翁 Avignon](avignon/)、[埃兹 Èze](eze/)、[普罗旺斯艾克斯 Aix-en-Provence](aix-en-provence/)、[尼斯 Nice](nice/)、[滨海自由城 Villefranche-sur-Mer](villefranche-sur-mer/)、[芒通 Menton](menton/)</p>
+<p class="om-levels" markdown>下一层：[卡西斯 Cassis](cassis/)、[埃兹 Èze](eze/)、[尼斯 Nice](nice/)、[普罗旺斯艾克斯 Aix-en-Provence](aix-en-provence/)、[滨海自由城 Villefranche-sur-Mer](villefranche-sur-mer/)、[芒通 Menton](menton/)、[阿尔勒 Arles](arles/)、[阿维尼翁 Avignon](avignon/)、[马赛 Marseille](marseille/)</p>

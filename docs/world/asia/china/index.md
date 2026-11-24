@@ -8,6 +8,16 @@ tags:
 
 位置：世界 › 亚洲 › **中国**
 
-<p class="om-empty">这一区暂时还没有图鉴，内容陆续补上。</p>
+<p class="om-count">1 本可下载的图鉴</p>
 
-<p class="om-levels" markdown>下一层：[陕西省](shaanxi/)、[江苏省](jiangsu/)、[河北省](hebei/)、[黑龙江省](heilongjiang/)、[香港](hong-kong/)、[天津](tianjin/)、[北京](beijing/)、[上海](shanghai/)</p>
+<div class="om-shelf">
+<div class="om-book">
+<a class="om-book__link" href="beijing/">
+<span class="om-book__cover"><img src="../../../images/covers/beijing.webp" alt="北京 封面" loading="lazy"></span>
+<span class="om-book__series"></span>
+<span class="om-book__title">北京</span>
+</a>
+</div>
+</div>
+
+<p class="om-levels" markdown>下一层：[北京](beijing/)、[上海](shanghai/)、[天津](tianjin/)、[江苏省](jiangsu/)、[河北省](hebei/)、[陕西省](shaanxi/)、[香港](hong-kong/)、[黑龙江省](heilongjiang/)</p>
