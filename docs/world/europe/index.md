@@ -8,7 +8,7 @@ tags:
 
 位置：世界 › **欧洲**
 
-<p class="om-count">14 本可下载的图鉴</p>
+<p class="om-count">15 本可下载的图鉴</p>
 
 <div class="om-shelf">
 <div class="om-book">
@@ -89,6 +89,13 @@ tags:
 </a>
 </div>
 <div class="om-book">
+<a class="om-book__link" href="germany/munich/">
+<span class="om-book__cover"><img src="../../images/covers/munich.webp" alt="慕尼黑 Munich 封面" loading="lazy"></span>
+<span class="om-book__series">德国</span>
+<span class="om-book__title">慕尼黑 Munich</span>
+</a>
+</div>
+<div class="om-book">
 <a class="om-book__link" href="iceland/">
 <span class="om-book__cover"><img src="../../images/covers/iceland.webp" alt="冰岛 封面" loading="lazy"></span>
 <span class="om-book__series"></span>
@@ -111,4 +118,4 @@ tags:
 </div>
 </div>
 
-<p class="om-levels" markdown>下一层：[冰岛](iceland/)、[摩纳哥 Monaco](monaco/)、[意大利](italy/)、[法国](france/)、[瑞士](switzerland/)</p>
+<p class="om-levels" markdown>下一层：[冰岛](iceland/)、[摩纳哥 Monaco](monaco/)、[德国](germany/)、[意大利](italy/)、[法国](france/)、[瑞士](switzerland/)</p>

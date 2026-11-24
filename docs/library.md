@@ -54,6 +54,12 @@ hide:
 | [里昂 Lyon](world/europe/france/auvergne-rhone-alpes/lyon/index.md) | [📥 下载](https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/lyon.pdf) |
 | [摩纳哥 Monaco](world/europe/monaco/index.md) | [📥 下载](https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/monaco.pdf) |
 
+## 德国城市百科
+
+| 名称 | 下载 |
+|---|---|
+| [慕尼黑 Munich](world/europe/germany/munich/index.md) | [📥 下载](https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/munich.pdf) |
+
 ## 瑞士城市百科
 
 | 名称 | 下载 |

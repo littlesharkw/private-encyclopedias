@@ -128,6 +128,9 @@ nav:
       - 意大利:
         - world/europe/italy/index.md
         - 撒丁岛: world/europe/italy/sardinia/index.md
+      - 德国:
+        - world/europe/germany/index.md
+        - 慕尼黑 Munich: world/europe/germany/munich/index.md
       - 瑞士:
         - world/europe/switzerland/index.md
         - 巴塞尔 Basel: world/europe/switzerland/basel/index.md

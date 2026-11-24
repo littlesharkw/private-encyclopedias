@@ -17,10 +17,10 @@ hide:
 ## 📚 书架
 
 <!-- shelf:start -->
-<div class="om-shelf-filter" role="toolbar" aria-label="按系列筛选"><button class="om-chip is-on" data-filter="all">全部</button><button class="om-chip" data-filter="new">最新上架</button><button class="om-chip" data-filter="身体">身体</button><button class="om-chip" data-filter="自然">自然</button><button class="om-chip" data-filter="科技">科技</button><button class="om-chip" data-filter="北欧旅行百科">北欧旅行百科</button><button class="om-chip" data-filter="中国城市百科">中国城市百科</button><button class="om-chip" data-filter="法国城市百科">法国城市百科</button><button class="om-chip" data-filter="瑞士城市百科">瑞士城市百科</button><button class="om-chip" data-filter="加拿大城市百科">加拿大城市百科</button><button class="om-chip" data-filter="加拿大主题图鉴">加拿大主题图鉴</button><button class="om-chip" data-filter="美国城市百科">美国城市百科</button></div>
+<div class="om-shelf-filter" role="toolbar" aria-label="按系列筛选"><button class="om-chip is-on" data-filter="all">全部</button><button class="om-chip" data-filter="new">按上架时间</button><button class="om-chip" data-filter="身体">身体</button><button class="om-chip" data-filter="自然">自然</button><button class="om-chip" data-filter="科技">科技</button><button class="om-chip" data-filter="北欧旅行百科">北欧旅行百科</button><button class="om-chip" data-filter="中国城市百科">中国城市百科</button><button class="om-chip" data-filter="法国城市百科">法国城市百科</button><button class="om-chip" data-filter="德国城市百科">德国城市百科</button><button class="om-chip" data-filter="瑞士城市百科">瑞士城市百科</button><button class="om-chip" data-filter="加拿大城市百科">加拿大城市百科</button><button class="om-chip" data-filter="加拿大主题图鉴">加拿大主题图鉴</button><button class="om-chip" data-filter="美国城市百科">美国城市百科</button></div>
 
 <div class="om-shelf">
-<div class="om-book" data-series="身体" data-file="sleep.pdf">
+<div class="om-book" data-series="身体" data-added="2026-09-18" data-file="sleep.pdf">
 <a class="om-book__link" href="body/sleep/">
 <span class="om-book__cover"><img src="images/covers/sleep.webp" alt="睡眠图鉴 封面" loading="lazy"></span>
 <span class="om-book__series">身体</span>
@@ -28,7 +28,7 @@ hide:
 </a>
 <a class="om-book__dl" href="https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/sleep.pdf">📥 下载 PDF</a>
 </div>
-<div class="om-book" data-series="自然" data-file="flowers.pdf">
+<div class="om-book" data-series="自然" data-added="2026-09-19" data-file="flowers.pdf">
 <a class="om-book__link" href="nature/flowers/">
 <span class="om-book__cover"><img src="images/covers/flowers.webp" alt="花的观察图鉴 封面" loading="lazy"></span>
 <span class="om-book__series">自然</span>
@@ -36,7 +36,7 @@ hide:
 </a>
 <a class="om-book__dl" href="https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/flowers.pdf">📥 下载 PDF</a>
 </div>
-<div class="om-book" data-series="科技" data-file="quantum.pdf">
+<div class="om-book" data-series="科技" data-added="2026-10-17" data-file="quantum.pdf">
 <a class="om-book__link" href="tech/quantum/">
 <span class="om-book__cover"><img src="images/covers/quantum.webp" alt="量子计算机图鉴 封面" loading="lazy"></span>
 <span class="om-book__series">科技</span>
@@ -44,7 +44,7 @@ hide:
 </a>
 <a class="om-book__dl" href="https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/quantum.pdf">📥 下载 PDF</a>
 </div>
-<div class="om-book" data-series="北欧旅行百科" data-file="iceland.pdf">
+<div class="om-book" data-series="北欧旅行百科" data-added="2026-09-16" data-file="iceland.pdf">
 <a class="om-book__link" href="world/europe/iceland/">
 <span class="om-book__cover"><img src="images/covers/iceland.webp" alt="冰岛 封面" loading="lazy"></span>
 <span class="om-book__series">北欧旅行百科</span>
@@ -52,7 +52,7 @@ hide:
 </a>
 <a class="om-book__dl" href="https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/iceland.pdf">📥 下载 PDF</a>
 </div>
-<div class="om-book" data-series="中国城市百科" data-file="beijing.pdf">
+<div class="om-book" data-series="中国城市百科" data-added="2026-11-24" data-file="beijing.pdf">
 <a class="om-book__link" href="world/asia/china/beijing/">
 <span class="om-book__cover"><img src="images/covers/beijing.webp" alt="北京 封面" loading="lazy"></span>
 <span class="om-book__series">中国城市百科</span>
@@ -60,7 +60,7 @@ hide:
 </a>
 <a class="om-book__dl" href="https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/beijing.pdf">📥 下载 PDF</a>
 </div>
-<div class="om-book" data-series="法国城市百科" data-file="nice.pdf">
+<div class="om-book" data-series="法国城市百科" data-added="2026-09-16" data-file="nice.pdf">
 <a class="om-book__link" href="world/europe/france/provence-alpes-cote-dazur/nice/">
 <span class="om-book__cover"><img src="images/covers/nice.webp" alt="尼斯 Nice 封面" loading="lazy"></span>
 <span class="om-book__series">法国城市百科</span>
@@ -68,7 +68,7 @@ hide:
 </a>
 <a class="om-book__dl" href="https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/nice.pdf">📥 下载 PDF</a>
 </div>
-<div class="om-book" data-series="法国城市百科" data-file="villefranche-sur-mer.pdf">
+<div class="om-book" data-series="法国城市百科" data-added="2026-09-16" data-file="villefranche-sur-mer.pdf">
 <a class="om-book__link" href="world/europe/france/provence-alpes-cote-dazur/villefranche-sur-mer/">
 <span class="om-book__cover"><img src="images/covers/villefranche-sur-mer.webp" alt="滨海自由城 Villefranche-sur-Mer 封面" loading="lazy"></span>
 <span class="om-book__series">法国城市百科</span>
@@ -76,7 +76,7 @@ hide:
 </a>
 <a class="om-book__dl" href="https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/villefranche-sur-mer.pdf">📥 下载 PDF</a>
 </div>
-<div class="om-book" data-series="法国城市百科" data-file="eze.pdf">
+<div class="om-book" data-series="法国城市百科" data-added="2026-09-16" data-file="eze.pdf">
 <a class="om-book__link" href="world/europe/france/provence-alpes-cote-dazur/eze/">
 <span class="om-book__cover"><img src="images/covers/eze.webp" alt="埃兹 Èze 封面" loading="lazy"></span>
 <span class="om-book__series">法国城市百科</span>
@@ -84,7 +84,7 @@ hide:
 </a>
 <a class="om-book__dl" href="https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/eze.pdf">📥 下载 PDF</a>
 </div>
-<div class="om-book" data-series="法国城市百科" data-file="menton.pdf">
+<div class="om-book" data-series="法国城市百科" data-added="2026-09-16" data-file="menton.pdf">
 <a class="om-book__link" href="world/europe/france/provence-alpes-cote-dazur/menton/">
 <span class="om-book__cover"><img src="images/covers/menton.webp" alt="芒通 Menton 封面" loading="lazy"></span>
 <span class="om-book__series">法国城市百科</span>
@@ -92,7 +92,7 @@ hide:
 </a>
 <a class="om-book__dl" href="https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/menton.pdf">📥 下载 PDF</a>
 </div>
-<div class="om-book" data-series="法国城市百科" data-file="cassis.pdf">
+<div class="om-book" data-series="法国城市百科" data-added="2026-09-16" data-file="cassis.pdf">
 <a class="om-book__link" href="world/europe/france/provence-alpes-cote-dazur/cassis/">
 <span class="om-book__cover"><img src="images/covers/cassis.webp" alt="卡西斯 Cassis 封面" loading="lazy"></span>
 <span class="om-book__series">法国城市百科</span>
@@ -100,7 +100,7 @@ hide:
 </a>
 <a class="om-book__dl" href="https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/cassis.pdf">📥 下载 PDF</a>
 </div>
-<div class="om-book" data-series="法国城市百科" data-file="marseille.pdf">
+<div class="om-book" data-series="法国城市百科" data-added="2026-09-16" data-file="marseille.pdf">
 <a class="om-book__link" href="world/europe/france/provence-alpes-cote-dazur/marseille/">
 <span class="om-book__cover"><img src="images/covers/marseille.webp" alt="马赛 Marseille 封面" loading="lazy"></span>
 <span class="om-book__series">法国城市百科</span>
@@ -108,7 +108,7 @@ hide:
 </a>
 <a class="om-book__dl" href="https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/marseille.pdf">📥 下载 PDF</a>
 </div>
-<div class="om-book" data-series="法国城市百科" data-file="avignon.pdf">
+<div class="om-book" data-series="法国城市百科" data-added="2026-09-16" data-file="avignon.pdf">
 <a class="om-book__link" href="world/europe/france/provence-alpes-cote-dazur/avignon/">
 <span class="om-book__cover"><img src="images/covers/avignon.webp" alt="阿维尼翁 Avignon 封面" loading="lazy"></span>
 <span class="om-book__series">法国城市百科</span>
@@ -116,7 +116,7 @@ hide:
 </a>
 <a class="om-book__dl" href="https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/avignon.pdf">📥 下载 PDF</a>
 </div>
-<div class="om-book" data-series="法国城市百科" data-file="arles.pdf">
+<div class="om-book" data-series="法国城市百科" data-added="2026-09-16" data-file="arles.pdf">
 <a class="om-book__link" href="world/europe/france/provence-alpes-cote-dazur/arles/">
 <span class="om-book__cover"><img src="images/covers/arles.webp" alt="阿尔勒 Arles 封面" loading="lazy"></span>
 <span class="om-book__series">法国城市百科</span>
@@ -124,7 +124,7 @@ hide:
 </a>
 <a class="om-book__dl" href="https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/arles.pdf">📥 下载 PDF</a>
 </div>
-<div class="om-book" data-series="法国城市百科" data-file="aix-en-provence.pdf">
+<div class="om-book" data-series="法国城市百科" data-added="2026-10-17" data-file="aix-en-provence.pdf">
 <a class="om-book__link" href="world/europe/france/provence-alpes-cote-dazur/aix-en-provence/">
 <span class="om-book__cover"><img src="images/covers/aix-en-provence.webp" alt="普罗旺斯艾克斯 Aix-en-Provence 封面" loading="lazy"></span>
 <span class="om-book__series">法国城市百科</span>
@@ -132,7 +132,7 @@ hide:
 </a>
 <a class="om-book__dl" href="https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/aix-en-provence.pdf">📥 下载 PDF</a>
 </div>
-<div class="om-book" data-series="法国城市百科" data-file="nimes.pdf">
+<div class="om-book" data-series="法国城市百科" data-added="2026-10-17" data-file="nimes.pdf">
 <a class="om-book__link" href="world/europe/france/occitanie/nimes/">
 <span class="om-book__cover"><img src="images/covers/nimes.webp" alt="尼姆 Nîmes 封面" loading="lazy"></span>
 <span class="om-book__series">法国城市百科</span>
@@ -140,7 +140,7 @@ hide:
 </a>
 <a class="om-book__dl" href="https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/nimes.pdf">📥 下载 PDF</a>
 </div>
-<div class="om-book" data-series="法国城市百科" data-file="lyon.pdf">
+<div class="om-book" data-series="法国城市百科" data-added="2026-09-16" data-file="lyon.pdf">
 <a class="om-book__link" href="world/europe/france/auvergne-rhone-alpes/lyon/">
 <span class="om-book__cover"><img src="images/covers/lyon.webp" alt="里昂 Lyon 封面" loading="lazy"></span>
 <span class="om-book__series">法国城市百科</span>
@@ -148,7 +148,7 @@ hide:
 </a>
 <a class="om-book__dl" href="https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/lyon.pdf">📥 下载 PDF</a>
 </div>
-<div class="om-book" data-series="法国城市百科" data-file="monaco.pdf">
+<div class="om-book" data-series="法国城市百科" data-added="2026-09-16" data-file="monaco.pdf">
 <a class="om-book__link" href="world/europe/monaco/">
 <span class="om-book__cover"><img src="images/covers/monaco.webp" alt="摩纳哥 Monaco 封面" loading="lazy"></span>
 <span class="om-book__series">法国城市百科</span>
@@ -156,7 +156,7 @@ hide:
 </a>
 <a class="om-book__dl" href="https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/monaco.pdf">📥 下载 PDF</a>
 </div>
-<div class="om-book" data-series="瑞士城市百科" data-file="basel.pdf">
+<div class="om-book" data-series="瑞士城市百科" data-added="2026-09-16" data-file="basel.pdf">
 <a class="om-book__link" href="world/europe/switzerland/basel/">
 <span class="om-book__cover"><img src="images/covers/basel.webp" alt="巴塞尔 Basel 封面" loading="lazy"></span>
 <span class="om-book__series">瑞士城市百科</span>
@@ -164,7 +164,15 @@ hide:
 </a>
 <a class="om-book__dl" href="https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/basel.pdf">📥 下载 PDF</a>
 </div>
-<div class="om-book" data-series="加拿大城市百科" data-file="woodstock.pdf">
+<div class="om-book" data-series="德国城市百科" data-added="2026-11-24" data-file="munich.pdf">
+<a class="om-book__link" href="world/europe/germany/munich/">
+<span class="om-book__cover"><img src="images/covers/munich.webp" alt="慕尼黑 Munich 封面" loading="lazy"></span>
+<span class="om-book__series">德国城市百科</span>
+<span class="om-book__title">慕尼黑 Munich</span>
+</a>
+<a class="om-book__dl" href="https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/munich.pdf">📥 下载 PDF</a>
+</div>
+<div class="om-book" data-series="加拿大城市百科" data-added="2026-09-16" data-file="woodstock.pdf">
 <a class="om-book__link" href="world/north-america/canada/ontario/woodstock/">
 <span class="om-book__cover"><img src="images/covers/woodstock.webp" alt="伍德斯托克 Woodstock 封面" loading="lazy"></span>
 <span class="om-book__series">加拿大城市百科</span>
@@ -172,7 +180,7 @@ hide:
 </a>
 <a class="om-book__dl" href="https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/woodstock.pdf">📥 下载 PDF</a>
 </div>
-<div class="om-book" data-series="加拿大主题图鉴" data-file="ontario-dairy.pdf">
+<div class="om-book" data-series="加拿大主题图鉴" data-added="2026-10-17" data-file="ontario-dairy.pdf">
 <a class="om-book__link" href="world/north-america/canada/ontario/dairy-trail/">
 <span class="om-book__cover"><img src="images/covers/ontario-dairy.webp" alt="安省鲜奶图鉴 封面" loading="lazy"></span>
 <span class="om-book__series">加拿大主题图鉴</span>
@@ -180,7 +188,7 @@ hide:
 </a>
 <a class="om-book__dl" href="https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/ontario-dairy.pdf">📥 下载 PDF</a>
 </div>
-<div class="om-book" data-series="美国城市百科" data-file="seattle.pdf">
+<div class="om-book" data-series="美国城市百科" data-added="2026-11-24" data-file="seattle.pdf">
 <a class="om-book__link" href="world/north-america/usa/washington/seattle/">
 <span class="om-book__cover"><img src="images/covers/seattle.webp" alt="西雅图 Seattle 封面" loading="lazy"></span>
 <span class="om-book__series">美国城市百科</span>
@@ -237,7 +245,7 @@ hide:
 
     [深度旅行图鉴](world/index.md)
 
-    法国、瑞士、冰岛、中国、美国、加拿大
+    法国、德国、瑞士、冰岛、中国、美国、加拿大
 
 </div>
 

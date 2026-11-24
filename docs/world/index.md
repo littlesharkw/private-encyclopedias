@@ -5,7 +5,7 @@ tags:
 
 # 世界 · 深度旅行图鉴
 
-<p class="om-count">18 本可下载的图鉴</p>
+<p class="om-count">19 本可下载的图鉴</p>
 
 <div class="om-shelf">
 <div class="om-book">
@@ -90,6 +90,13 @@ tags:
 <span class="om-book__cover"><img src="../images/covers/villefranche-sur-mer.webp" alt="滨海自由城 Villefranche-sur-Mer 封面" loading="lazy"></span>
 <span class="om-book__series">欧洲 › 法国 › 普罗旺斯-阿尔卑斯-蓝色海岸大区</span>
 <span class="om-book__title">滨海自由城 Villefranche-sur-Mer</span>
+</a>
+</div>
+<div class="om-book">
+<a class="om-book__link" href="europe/germany/munich/">
+<span class="om-book__cover"><img src="../images/covers/munich.webp" alt="慕尼黑 Munich 封面" loading="lazy"></span>
+<span class="om-book__series">欧洲 › 德国</span>
+<span class="om-book__title">慕尼黑 Munich</span>
 </a>
 </div>
 <div class="om-book">
