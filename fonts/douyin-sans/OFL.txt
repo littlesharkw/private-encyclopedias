@@ -1,0 +1,8 @@
+抖音美好体 Douyin Sans
+Copyright (c) 2023 by Beijing Zitiao Network Technology Co., Ltd. All rights reserved.
+
+本字体以 SIL Open Font License, Version 1.1 授权。
+本目录中的 .woff 文件为原字体按字符分片后的网页版本（已移除损坏的 GSUB 表），仍以同一授权发布。
+
+This Font Software is licensed under the SIL Open Font License, Version 1.1.
+Full license text and FAQ: https://openfontlicense.org
