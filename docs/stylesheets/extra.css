@@ -340,10 +340,11 @@ body { font-family: var(--md-text-font); }
   box-shadow: none !important;
 }
 
-/* ---------- 书脊书架 ---------- */
+/* ---------- 书脊书架（真 3D） ---------- */
 .om-spines {
   display: flex; align-items: flex-end; flex-wrap: wrap;
-  gap: 3px; row-gap: 1.4rem; padding: .7rem 0 .4rem;
+  gap: 0; row-gap: 1.6rem; padding: .9rem 0 .4rem;
+  perspective: 1600px;
 }
 .om-dom-group { margin: 0 0 1.5rem; }
 .om-dom-group[hidden] { display: none; }
@@ -357,32 +358,36 @@ body { font-family: var(--md-text-font); }
   font-family: var(--md-text-font); font-size: .68rem;
   letter-spacing: .08em; color: var(--om-muted);
 }
-.om-spine { position: relative; flex: 0 0 auto; }
+
+.om-spine { position: relative; flex: 0 0 auto; z-index: 1; width: calc(var(--th, 36px) + 38px); }
 .om-spine[hidden] { display: none; }
+.om-spine.is-open, .om-spine:hover { z-index: 6; }
+
+/* 书本本体：一个有厚度的盒子，书脊朝前、封面朝右后方 */
 .md-typeset a.om-spine__link {
   position: relative; display: flex; flex-direction: column;
   align-items: center; justify-content: space-between;
   width: var(--th, 36px); height: 250px; padding: 16px 0 13px;
-  color: #fff; text-decoration: none; overflow: hidden;
+  color: #fff; text-decoration: none; overflow: visible;
   background:
     linear-gradient(90deg,
-      rgba(0,0,0,.34) 0%, rgba(0,0,0,.12) 14%,
-      rgba(255,255,255,.14) 42%, rgba(255,255,255,.05) 62%,
-      rgba(0,0,0,.14) 86%, rgba(0,0,0,.3) 100%),
+      rgba(0,0,0,.30) 0%, rgba(0,0,0,.10) 16%,
+      rgba(255,255,255,.16) 44%, rgba(255,255,255,.04) 64%,
+      rgba(0,0,0,.14) 86%, rgba(0,0,0,.28) 100%),
     var(--sp);
-  border-radius: 1px 3px 3px 1px;
-  box-shadow: 0 2px 5px rgba(0,0,0,.24), inset 0 1px 0 rgba(255,255,255,.16);
-  transition: width .45s cubic-bezier(.2,.75,.25,1);
+  box-shadow: 0 3px 8px rgba(0,0,0,.26);
+  transform-style: preserve-3d;
+  transform: rotateY(-13deg);
+  transition: transform .5s cubic-bezier(.2,.75,.25,1);
 }
-/* 顶部书口（纸页断面） */
+/* 顶部书口 */
 .om-spine__link::before {
   content: ""; position: absolute; top: 0; left: 0; right: 0; height: 5px; z-index: 2;
-  background: linear-gradient(#F3EFE6, #CFC7B6);
-  border-radius: 1px 2px 0 0; transition: opacity .25s;
+  background: linear-gradient(#F6F2EA, #CFC7B6);
 }
 .om-spine:nth-child(3n)   .om-spine__link { height: 264px; }
 .om-spine:nth-child(4n+1) .om-spine__link { height: 240px; }
-/* 厚薄不一，像真的一排书 */
+/* 厚薄不一 */
 .om-spine:nth-child(7n+1) { --th: 34px; }
 .om-spine:nth-child(7n+2) { --th: 38px; }
 .om-spine:nth-child(7n+3) { --th: 31px; }
@@ -390,44 +395,52 @@ body { font-family: var(--md-text-font); }
 .om-spine:nth-child(7n+5) { --th: 36px; }
 .om-spine:nth-child(7n+6) { --th: 33px; }
 .om-spine:nth-child(7n+7) { --th: 39px; }
-.om-spine__num { font-size: .55rem; letter-spacing: .1em; opacity: .65; }
+
+.om-spine__num { font-size: .55rem; letter-spacing: .1em; opacity: .7; }
 .om-spine__title {
   writing-mode: vertical-rl; font-family: var(--om-display);
   font-size: .78rem; letter-spacing: .14em; line-height: 1.1;
-  max-height: 190px; overflow: hidden;
+  max-height: 180px; overflow: hidden;
 }
-.om-spine__cover {
-  position: absolute; inset: 0; width: 100%; height: 100%; z-index: 3;
-  object-fit: cover; opacity: 0; transition: opacity .35s .1s;
+/* 封面：贴在书脊右缘，向后折 90 度 */
+.md-typeset img.om-spine__cover {
+  position: absolute; top: 0; left: 100%;
+  width: 150px; max-width: none; height: 100%; opacity: 1;
+  transform-origin: left center; transform: rotateY(90deg);
+  object-fit: cover; background: var(--om-paper);
+  box-shadow: inset 12px 0 24px rgba(0,0,0,.34);
 }
 .om-spine.is-new .om-spine__link::after {
   content: ""; position: absolute; top: 5px; left: 0; right: 0; height: 3px;
   background: #fff; z-index: 2;
 }
 .md-typeset a.om-spine__dl {
-  display: block; margin-top: .5rem; font-size: .6rem; letter-spacing: .08em;
+  display: block; margin-top: .55rem; font-size: .6rem; letter-spacing: .08em;
   color: var(--om-muted); text-decoration: none; text-align: center;
   opacity: 0; transition: opacity .25s;
 }
-.om-spine.is-open .om-spine__dl { opacity: 1; }
 .md-typeset a.om-spine__dl:hover { color: var(--om-ink); }
 
-.md-typeset .om-spine.is-open a.om-spine__link { width: 188px; }
-.om-spine.is-open .om-spine__cover { opacity: 1; }
+/* 转出来看封面 */
+.md-typeset .om-spine.is-open a.om-spine__link {
+  transform: rotateY(-72deg) translateZ(42px) translateX(-6px);
+}
 .om-spine.is-open .om-spine__link::before,
 .om-spine.is-open .om-spine__link::after { opacity: 0; }
-.om-spine.is-open .om-spine__num,
-.om-spine.is-open .om-spine__title { opacity: 0; transition: opacity .15s; }
+.om-spine.is-open .om-spine__dl { opacity: 1; }
 
 @media (hover: hover) {
-  .md-typeset .om-spine:hover a.om-spine__link { width: 188px; }
-  .om-spine:hover .om-spine__cover { opacity: 1; }
+  .md-typeset .om-spine:hover a.om-spine__link {
+    transform: rotateY(-72deg) translateZ(42px) translateX(-6px);
+  }
   .om-spine:hover .om-spine__link::before,
   .om-spine:hover .om-spine__link::after { opacity: 0; }
-  .om-spine:hover .om-spine__num, .om-spine:hover .om-spine__title { opacity: 0; transition: opacity .15s; }
   .om-spine:hover .om-spine__dl { opacity: 1; }
 }
+
 @media (max-width: 600px) {
+  .om-spines { perspective: 1100px; }
+  .om-spine { width: calc(var(--th, 30px) + 27px); }
   .md-typeset a.om-spine__link { height: 208px; }
   .om-spine:nth-child(3n)   .om-spine__link { height: 218px; }
   .om-spine:nth-child(4n+1) .om-spine__link { height: 200px; }
@@ -438,6 +451,6 @@ body { font-family: var(--md-text-font); }
   .om-spine:nth-child(7n+5) { --th: 31px; }
   .om-spine:nth-child(7n+6) { --th: 28px; }
   .om-spine:nth-child(7n+7) { --th: 34px; }
-  .md-typeset .om-spine.is-open a.om-spine__link { width: 156px; }
-  .om-spine__title { max-height: 150px; font-size: .72rem; }
+  .md-typeset img.om-spine__cover { width: 104px; }
+  .om-spine__title { max-height: 148px; font-size: .72rem; }
 }
