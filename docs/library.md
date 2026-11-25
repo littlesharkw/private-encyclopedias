@@ -11,81 +11,81 @@ hide:
 
 | 名称 | 下载 |
 |---|---|
-| [睡眠图鉴](body/sleep/index.md) | [📥 下载](https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/sleep.pdf) |
+| [睡眠图鉴](body/sleep/index.md) | [下载](https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/sleep.pdf) |
 
 ## 自然
 
 | 名称 | 下载 |
 |---|---|
-| [花的观察图鉴](nature/flowers/index.md) | [📥 下载](https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/flowers.pdf) |
+| [花的观察图鉴](nature/flowers/index.md) | [下载](https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/flowers.pdf) |
 
 ## 科技
 
 | 名称 | 下载 |
 |---|---|
-| [量子计算机图鉴](tech/quantum/index.md) | [📥 下载](https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/quantum.pdf) |
+| [量子计算机图鉴](tech/quantum/index.md) | [下载](https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/quantum.pdf) |
 
 ## 生活
 
 | 名称 | 下载 |
 |---|---|
-| [香水世界](life/perfume/index.md) | [📥 下载](https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/perfume.pdf) |
+| [香水世界](life/perfume/index.md) | [下载](https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/perfume.pdf) |
 
 ## 北欧旅行百科
 
 | 名称 | 下载 |
 |---|---|
-| [冰岛](world/europe/iceland/index.md) | [📥 下载](https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/iceland.pdf) |
+| [冰岛](world/europe/iceland/index.md) | [下载](https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/iceland.pdf) |
 
 ## 中国城市百科
 
 | 名称 | 下载 |
 |---|---|
-| [北京](world/asia/china/beijing/index.md) | [📥 下载](https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/beijing.pdf) |
+| [北京](world/asia/china/beijing/index.md) | [下载](https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/beijing.pdf) |
 
 ## 法国城市百科
 
 | 名称 | 下载 |
 |---|---|
-| [尼斯 Nice](world/europe/france/provence-alpes-cote-dazur/nice/index.md) | [📥 下载](https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/nice.pdf) |
-| [滨海自由城 Villefranche-sur-Mer](world/europe/france/provence-alpes-cote-dazur/villefranche-sur-mer/index.md) | [📥 下载](https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/villefranche-sur-mer.pdf) |
-| [埃兹 Èze](world/europe/france/provence-alpes-cote-dazur/eze/index.md) | [📥 下载](https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/eze.pdf) |
-| [芒通 Menton](world/europe/france/provence-alpes-cote-dazur/menton/index.md) | [📥 下载](https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/menton.pdf) |
-| [卡西斯 Cassis](world/europe/france/provence-alpes-cote-dazur/cassis/index.md) | [📥 下载](https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/cassis.pdf) |
-| [马赛 Marseille](world/europe/france/provence-alpes-cote-dazur/marseille/index.md) | [📥 下载](https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/marseille.pdf) |
-| [阿维尼翁 Avignon](world/europe/france/provence-alpes-cote-dazur/avignon/index.md) | [📥 下载](https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/avignon.pdf) |
-| [阿尔勒 Arles](world/europe/france/provence-alpes-cote-dazur/arles/index.md) | [📥 下载](https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/arles.pdf) |
-| [普罗旺斯艾克斯 Aix-en-Provence](world/europe/france/provence-alpes-cote-dazur/aix-en-provence/index.md) | [📥 下载](https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/aix-en-provence.pdf) |
-| [尼姆 Nîmes](world/europe/france/occitanie/nimes/index.md) | [📥 下载](https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/nimes.pdf) |
-| [里昂 Lyon](world/europe/france/auvergne-rhone-alpes/lyon/index.md) | [📥 下载](https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/lyon.pdf) |
-| [摩纳哥 Monaco](world/europe/monaco/index.md) | [📥 下载](https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/monaco.pdf) |
+| [尼斯 Nice](world/europe/france/provence-alpes-cote-dazur/nice/index.md) | [下载](https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/nice.pdf) |
+| [滨海自由城 Villefranche-sur-Mer](world/europe/france/provence-alpes-cote-dazur/villefranche-sur-mer/index.md) | [下载](https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/villefranche-sur-mer.pdf) |
+| [埃兹 Èze](world/europe/france/provence-alpes-cote-dazur/eze/index.md) | [下载](https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/eze.pdf) |
+| [芒通 Menton](world/europe/france/provence-alpes-cote-dazur/menton/index.md) | [下载](https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/menton.pdf) |
+| [卡西斯 Cassis](world/europe/france/provence-alpes-cote-dazur/cassis/index.md) | [下载](https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/cassis.pdf) |
+| [马赛 Marseille](world/europe/france/provence-alpes-cote-dazur/marseille/index.md) | [下载](https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/marseille.pdf) |
+| [阿维尼翁 Avignon](world/europe/france/provence-alpes-cote-dazur/avignon/index.md) | [下载](https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/avignon.pdf) |
+| [阿尔勒 Arles](world/europe/france/provence-alpes-cote-dazur/arles/index.md) | [下载](https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/arles.pdf) |
+| [普罗旺斯艾克斯 Aix-en-Provence](world/europe/france/provence-alpes-cote-dazur/aix-en-provence/index.md) | [下载](https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/aix-en-provence.pdf) |
+| [尼姆 Nîmes](world/europe/france/occitanie/nimes/index.md) | [下载](https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/nimes.pdf) |
+| [里昂 Lyon](world/europe/france/auvergne-rhone-alpes/lyon/index.md) | [下载](https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/lyon.pdf) |
+| [摩纳哥 Monaco](world/europe/monaco/index.md) | [下载](https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/monaco.pdf) |
 
 ## 德国城市百科
 
 | 名称 | 下载 |
 |---|---|
-| [慕尼黑 Munich](world/europe/germany/munich/index.md) | [📥 下载](https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/munich.pdf) |
+| [慕尼黑 Munich](world/europe/germany/munich/index.md) | [下载](https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/munich.pdf) |
 
 ## 瑞士城市百科
 
 | 名称 | 下载 |
 |---|---|
-| [巴塞尔 Basel](world/europe/switzerland/basel/index.md) | [📥 下载](https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/basel.pdf) |
+| [巴塞尔 Basel](world/europe/switzerland/basel/index.md) | [下载](https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/basel.pdf) |
 
 ## 加拿大城市百科
 
 | 名称 | 下载 |
 |---|---|
-| [伍德斯托克 Woodstock](world/north-america/canada/ontario/woodstock/index.md) | [📥 下载](https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/woodstock.pdf) |
+| [伍德斯托克 Woodstock](world/north-america/canada/ontario/woodstock/index.md) | [下载](https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/woodstock.pdf) |
 
 ## 加拿大主题图鉴
 
 | 名称 | 下载 |
 |---|---|
-| [安省鲜奶图鉴](world/north-america/canada/ontario/dairy-trail/index.md) | [📥 下载](https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/ontario-dairy.pdf) |
+| [安省鲜奶图鉴](world/north-america/canada/ontario/dairy-trail/index.md) | [下载](https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/ontario-dairy.pdf) |
 
 ## 美国城市百科
 
 | 名称 | 下载 |
 |---|---|
-| [西雅图 Seattle](world/north-america/usa/washington/seattle/index.md) | [📥 下载](https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/seattle.pdf) |
+| [西雅图 Seattle](world/north-america/usa/washington/seattle/index.md) | [下载](https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/seattle.pdf) |

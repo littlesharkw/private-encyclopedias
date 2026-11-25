@@ -26,7 +26,7 @@ tags:
 
 <p class="om-size">75 个主题（001–075）／8 章</p>
 
-[📥 下载 PDF：美国城市百科 · 西雅图 Seattle](https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/seattle.pdf){ .md-button .md-button--primary }
+[下载 PDF：美国城市百科 · 西雅图 Seattle](https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/seattle.pdf){ .md-button .md-button--primary }
 
 </div>
 
@@ -36,7 +36,9 @@ tags:
 
 从水岸与街区读懂一座被水与山包围的城市。先讲地理与气候——西雅图到底是不是总在下雨，再从 Coast Salish 原住民、Denny Party 登陆、1889 大火与地下城、淘金热、世博会与太空针，一路讲到 Grunge 年代和微软、亚马逊带来的科技之城。中段逐个走遍派克市场、先锋广场、国际区、Capitol Hill、Fremont、Ballard，再出城去渡轮、雷尼尔山与 Leavenworth。最后谈咖啡、海鲜、精酿、音乐与公共艺术，以及移民故事、雨天哲学与这座城市今天面对的房价与无家者问题。
 
-**关键词**：Coast Salish、Chief Seattle、Denny Party、Alki Point、1889 大火、地下城、Denny Regrade、克朗代克淘金热、1962 世博会、Space Needle、Grunge、Nirvana、Pearl Jam、Jimi Hendrix、微软、Amazon、South Lake Union、Amazon Spheres、Pike Place Market、Gum Wall、Post Alley、第一家星巴克、Starbucks Reserve Roastery、Waterfront Park、Seattle Center、Chihuly Garden and Glass、MoPOP、Kerry Park、Pioneer Square、Smith Tower、Chinatown-International District、Capitol Hill、Fremont Troll、Gas Works Park、Ballard Locks、三文鱼梯、Museum of Flight、华盛顿州渡轮、Bainbridge Island、Alki Beach、Lake Union 船屋、水上飞机、Mount Rainier、Snoqualmie Falls、Leavenworth、Olympic 半岛、San Juan 群岛、帝王蟹、象拔蚌、生蚝、Happy Hour、Chowder、Teriyaki、Seattle Dog、精酿啤酒、华盛顿州葡萄酒、农夫市集、Seattle Art Museum、图腾柱、Elliott Bay Book Company、Seahawks、Mariners、Kraken、雨季穿搭、Winterfest、三文鱼洄游、Duwamish、房价与无家者
+??? note "搜索关键词"
+
+    Coast Salish、Chief Seattle、Denny Party、Alki Point、1889 大火、地下城、Denny Regrade、克朗代克淘金热、1962 世博会、Space Needle、Grunge、Nirvana、Pearl Jam、Jimi Hendrix、微软、Amazon、South Lake Union、Amazon Spheres、Pike Place Market、Gum Wall、Post Alley、第一家星巴克、Starbucks Reserve Roastery、Waterfront Park、Seattle Center、Chihuly Garden and Glass、MoPOP、Kerry Park、Pioneer Square、Smith Tower、Chinatown-International District、Capitol Hill、Fremont Troll、Gas Works Park、Ballard Locks、三文鱼梯、Museum of Flight、华盛顿州渡轮、Bainbridge Island、Alki Beach、Lake Union 船屋、水上飞机、Mount Rainier、Snoqualmie Falls、Leavenworth、Olympic 半岛、San Juan 群岛、帝王蟹、象拔蚌、生蚝、Happy Hour、Chowder、Teriyaki、Seattle Dog、精酿啤酒、华盛顿州葡萄酒、农夫市集、Seattle Art Museum、图腾柱、Elliott Bay Book Company、Seahawks、Mariners、Kraken、雨季穿搭、Winterfest、三文鱼洄游、Duwamish、房价与无家者
 
 ## 收录章节
 

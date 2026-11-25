@@ -24,7 +24,7 @@ tags:
 
 <p class="om-size">2 个主题</p>
 
-[📥 下载 PDF：法国城市百科 · 阿尔勒 Arles](https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/arles.pdf){ .md-button .md-button--primary }
+[下载 PDF：法国城市百科 · 阿尔勒 Arles](https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/arles.pdf){ .md-button .md-button--primary }
 
 </div>
 
@@ -34,7 +34,9 @@ tags:
 
 阿尔勒是罗讷河畔的罗马古城，也是梵高创作高峰期生活的地方。本册分为「罗马篇」与「梵高的阿尔勒」两部分。目前的 PDF 收录封面与两页目录。
 
-**关键词**：罗马竞技场 Arènes d'Arles、古罗马剧场、共和广场、Saint-Trophime、罗讷河、Camargue 湿地、盐、黑米、梵高 Van Gogh、夜间咖啡馆、黄房子、罗讷河上的星夜、Fondation Vincent van Gogh、Alyscamps、高更
+??? note "搜索关键词"
+
+    罗马竞技场 Arènes d'Arles、古罗马剧场、共和广场、Saint-Trophime、罗讷河、Camargue 湿地、盐、黑米、梵高 Van Gogh、夜间咖啡馆、黄房子、罗讷河上的星夜、Fondation Vincent van Gogh、Alyscamps、高更
 
 ## 收录章节
 

@@ -26,7 +26,7 @@ tags:
 
 <p class="om-size">10 个主题</p>
 
-[📥 下载 PDF：法国城市百科 · 摩纳哥 Monaco](https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/monaco.pdf){ .md-button .md-button--primary }
+[下载 PDF：法国城市百科 · 摩纳哥 Monaco](https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/monaco.pdf){ .md-button .md-button--primary }
 
 </div>
 
@@ -36,7 +36,9 @@ tags:
 
 摩纳哥是欧洲第二小的国家。本册解释它为什么能独立存在，梳理 Grimaldi 家族七百多年的统治，并逐一介绍王宫、大教堂与 Grace Kelly、Port Hercules 港口、海洋博物馆、F1 街道赛、蒙特卡洛赌场，以及当地人日常去的市集。
 
-**关键词**：Grimaldi 家族、Monaco-Ville、Le Rocher、王宫 Prince's Palace、卫兵换岗、摩纳哥大教堂、Grace Kelly、Port Hercules、超级游艇、海洋博物馆、Albert I、F1 摩纳哥大奖赛、Monte-Carlo Casino、Belle Époque、Marché de la Condamine
+??? note "搜索关键词"
+
+    Grimaldi 家族、Monaco-Ville、Le Rocher、王宫 Prince's Palace、卫兵换岗、摩纳哥大教堂、Grace Kelly、Port Hercules、超级游艇、海洋博物馆、Albert I、F1 摩纳哥大奖赛、Monte-Carlo Casino、Belle Époque、Marché de la Condamine
 
 ## 收录章节
 

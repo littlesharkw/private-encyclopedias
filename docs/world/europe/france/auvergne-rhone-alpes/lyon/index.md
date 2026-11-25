@@ -28,7 +28,7 @@ tags:
 
 <p class="om-size">3 个主题</p>
 
-[📥 下载 PDF：法国城市百科 · 里昂 Lyon](https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/lyon.pdf){ .md-button .md-button--primary }
+[下载 PDF：法国城市百科 · 里昂 Lyon](https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/lyon.pdf){ .md-button .md-button--primary }
 
 </div>
 
@@ -38,7 +38,9 @@ tags:
 
 里昂是一座有两千年历史、两条河流交汇的城市。本册分三章：老城与富维耶山丘、半岛与丝织工人的红十字山，以及博物馆、美食与电影诞生地，最后从丝绸之路回看里昂为何成为欧洲丝绸之都。
 
-**关键词**：Vieux Lyon、Fourvière、圣让主教座堂、天文钟、Traboule、罗马剧场、中法大学、Presqu'île、Place Bellecour、小王子 Saint-Exupéry、里昂人壁画、Croix-Rousse、Canut 丝织工、Canut 起义、Jacquard 织机、美术馆、Paul Bocuse、Les Halles、卢米埃尔兄弟、Institut Lumière、Tony Garnier、织物博物馆、丝绸之路
+??? note "搜索关键词"
+
+    Vieux Lyon、Fourvière、圣让主教座堂、天文钟、Traboule、罗马剧场、中法大学、Presqu'île、Place Bellecour、小王子 Saint-Exupéry、里昂人壁画、Croix-Rousse、Canut 丝织工、Canut 起义、Jacquard 织机、美术馆、Paul Bocuse、Les Halles、卢米埃尔兄弟、Institut Lumière、Tony Garnier、织物博物馆、丝绸之路
 
 ## 收录章节
 

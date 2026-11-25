@@ -25,7 +25,7 @@ tags:
 
 <p class="om-size">7 个主题</p>
 
-[📥 下载 PDF：法国城市百科 · 尼斯 Nice](https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/nice.pdf){ .md-button .md-button--primary }
+[下载 PDF：法国城市百科 · 尼斯 Nice](https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/nice.pdf){ .md-button .md-button--primary }
 
 </div>
 
@@ -35,7 +35,9 @@ tags:
 
 尼斯位于山海之间，长期受萨伏依与意大利文化影响，1860 年才并入法国。本册从城市身份讲起，逛老城、花市与老店，登上城堡山读懂天使湾，再到港口与尼斯地道美食。
 
-**关键词**：Vieux Nice、萨伏依 Savoy、1860、Niçois、Cours Saleya 花市、橄榄油 Alziari、Maison Auer 糖渍水果、Pointu 小船、Trompe-l'œil 错视画、城堡山 Colline du Château、天使湾 Baie des Anges、Port Lympia、Socca、Pissaladière、Pan Bagnat、尼斯沙拉
+??? note "搜索关键词"
+
+    Vieux Nice、萨伏依 Savoy、1860、Niçois、Cours Saleya 花市、橄榄油 Alziari、Maison Auer 糖渍水果、Pointu 小船、Trompe-l'œil 错视画、城堡山 Colline du Château、天使湾 Baie des Anges、Port Lympia、Socca、Pissaladière、Pan Bagnat、尼斯沙拉
 
 ## 收录章节
 

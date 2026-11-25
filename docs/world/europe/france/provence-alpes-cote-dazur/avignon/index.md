@@ -25,7 +25,7 @@ tags:
 
 <p class="om-size">9 个主题</p>
 
-[📥 下载 PDF：法国城市百科 · 阿维尼翁 Avignon](https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/avignon.pdf){ .md-button .md-button--primary }
+[下载 PDF：法国城市百科 · 阿维尼翁 Avignon](https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/avignon.pdf){ .md-button .md-button--primary }
 
 </div>
 
@@ -35,7 +35,9 @@ tags:
 
 阿维尼翁在 14 世纪曾是天主教会的中心。本册解释教皇为什么离开罗马、七位阿维尼翁教皇的故事，拆解教皇宫的建筑，再走到只剩半座的圣贝内泽桥、Rocher des Doms、水车街，以及保存完整的中世纪城墙。
 
-**关键词**：教皇宫 Palais des Papes、阿维尼翁教廷、七位教皇、西方大分裂、断桥 Pont Saint-Bénézet、《在阿维尼翁桥上》、Rocher des Doms、罗讷河、Rue des Teinturiers、水车、纺织、城墙、UNESCO
+??? note "搜索关键词"
+
+    教皇宫 Palais des Papes、阿维尼翁教廷、七位教皇、西方大分裂、断桥 Pont Saint-Bénézet、《在阿维尼翁桥上》、Rocher des Doms、罗讷河、Rue des Teinturiers、水车、纺织、城墙、UNESCO
 
 ## 收录章节
 

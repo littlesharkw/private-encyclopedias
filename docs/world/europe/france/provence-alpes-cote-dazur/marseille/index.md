@@ -27,7 +27,7 @@ tags:
 
 <p class="om-size">12 个主题</p>
 
-[📥 下载 PDF：法国城市百科 · 马赛 Marseille](https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/marseille.pdf){ .md-button .md-button--primary }
+[下载 PDF：法国城市百科 · 马赛 Marseille](https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/marseille.pdf){ .md-button .md-button--primary }
 
 </div>
 
@@ -37,7 +37,9 @@ tags:
 
 马赛是法国最古老的城市，已有约 2600 年历史。本册从希腊人建立 Massalia 讲起，走过旧港、Le Panier 老城区、圣让堡与 MuCEM，登上守护圣母院，再从移民史与马赛鱼汤等地方饮食读懂这座地中海城市。
 
-**关键词**：Massalia、Vieux-Port 旧港、鱼市、Le Panier、Fort Saint-Jean、MuCEM、马赛主教座堂 La Major、守护圣母院 Notre-Dame de la Garde、移民城市、马赛鱼汤 Bouillabaisse、Navettes、Panisse、Pastis
+??? note "搜索关键词"
+
+    Massalia、Vieux-Port 旧港、鱼市、Le Panier、Fort Saint-Jean、MuCEM、马赛主教座堂 La Major、守护圣母院 Notre-Dame de la Garde、移民城市、马赛鱼汤 Bouillabaisse、Navettes、Panisse、Pastis
 
 ## 收录章节
 

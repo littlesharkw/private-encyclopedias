@@ -23,7 +23,7 @@ tags:
 
 <p class="om-size">10 个主题</p>
 
-[📥 下载 PDF：加拿大城市百科 · 伍德斯托克 Woodstock](https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/woodstock.pdf){ .md-button .md-button--primary }
+[下载 PDF：加拿大城市百科 · 伍德斯托克 Woodstock](https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/woodstock.pdf){ .md-button .md-button--primary }
 
 </div>
 
@@ -33,7 +33,9 @@ tags:
 
 一本 69 篇的安大略小城深度百科。从地理与原住民土地历史讲起，经过殖民建城、铁路与工业城、乳酪王国、轰动全国的刑事案件、建筑与街景、人口与日常，最后附上实地考察方法，把伍德斯托克当作认识安省小城的模型。
 
-**关键词**：Oxford County、Thames 河、Deshkan Ziibi、原住民与条约、McKee Purchase、Vansittart Avenue、Old St. Paul's、Great Western Railway、工业城、D.W. Karn、Standard Tube、乳酪、Mammoth Cheese、Gunn's Hill、Cheese Trail、Birchall 案、Oxford County Courthouse、Old Town Hall、黄砖建筑、Heritage Conservation District、Toyota、安省小城
+??? note "搜索关键词"
+
+    Oxford County、Thames 河、Deshkan Ziibi、原住民与条约、McKee Purchase、Vansittart Avenue、Old St. Paul's、Great Western Railway、工业城、D.W. Karn、Standard Tube、乳酪、Mammoth Cheese、Gunn's Hill、Cheese Trail、Birchall 案、Oxford County Courthouse、Old Town Hall、黄砖建筑、Heritage Conservation District、Toyota、安省小城
 
 ## 收录章节
 

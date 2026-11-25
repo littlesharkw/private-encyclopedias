@@ -36,7 +36,6 @@ theme:
         name: 切换浅色模式
 
 extra_css:
-  - fonts/douyin-sans/fonts.css
   - stylesheets/extra.css
 
 extra_javascript:
@@ -70,17 +69,17 @@ nav:
     - index.md
     - PDF 图书馆: library.md
     - 标签索引: tags.md
-  - 🌿 自然:
+  - 自然:
     - 花的观察图鉴: nature/flowers/index.md
-  - 🫀 身体:
+  - 身体:
     - 睡眠图鉴: body/sleep/index.md
-  - 🧠 心灵:
+  - 心灵:
     - 心理学图鉴: mind/psychology/index.md
-  - 🔬 科技:
+  - 科技:
     - 量子计算机图鉴: tech/quantum/index.md
-  - 🌸 生活:
+  - 生活:
     - 香水世界: life/perfume/index.md
-  - ✈️ 世界:
+  - 世界:
     - world/index.md
     - 亚洲:
       - world/asia/index.md
