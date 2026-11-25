@@ -368,14 +368,30 @@ body { font-family: var(--md-text-font); }
   position: relative; display: flex; flex-direction: column;
   align-items: center; justify-content: space-between;
   width: var(--th, 36px); height: 250px; padding: 16px 0 13px;
-  color: #fff; text-decoration: none; overflow: visible;
+  color: rgba(255,255,255,.93); text-decoration: none; overflow: visible;
   background:
+    /* 书脊两端的压痕（装订时订口折出来的沟） */
     linear-gradient(90deg,
-      rgba(0,0,0,.30) 0%, rgba(0,0,0,.10) 16%,
-      rgba(255,255,255,.16) 44%, rgba(255,255,255,.04) 64%,
-      rgba(0,0,0,.14) 86%, rgba(0,0,0,.28) 100%),
+      rgba(0,0,0,.42) 0px, rgba(0,0,0,.16) 2px, rgba(0,0,0,0) 5px,
+      rgba(0,0,0,0) calc(100% - 5px), rgba(0,0,0,.18) calc(100% - 2px), rgba(0,0,0,.4) 100%),
+    /* 布纹：细密的经纬线 */
+    repeating-linear-gradient(90deg,
+      rgba(255,255,255,.045) 0 1px, rgba(0,0,0,.045) 1px 2px),
+    repeating-linear-gradient(0deg,
+      rgba(255,255,255,.035) 0 1px, rgba(0,0,0,.05) 1px 3px),
+    /* 弧面受光 */
+    linear-gradient(90deg,
+      rgba(0,0,0,.34) 0%, rgba(0,0,0,.08) 18%,
+      rgba(255,255,255,.13) 44%, rgba(255,255,255,.02) 66%,
+      rgba(0,0,0,.16) 87%, rgba(0,0,0,.32) 100%),
     var(--sp);
-  box-shadow: 0 3px 8px rgba(0,0,0,.26);
+  /* 落地投影 + 书脊上下两道压印横线（精装书常见的装饰线） */
+  box-shadow:
+    0 3px 8px rgba(0,0,0,.26),
+    inset 0 31px 0 -30px rgba(255,255,255,.26),
+    inset 0 35px 0 -34px rgba(0,0,0,.26),
+    inset 0 -16px 0 -15px rgba(255,255,255,.22),
+    inset 0 -20px 0 -19px rgba(0,0,0,.24);
   transform-style: preserve-3d;
   transform: rotateY(-13deg);
   transition: transform .5s cubic-bezier(.2,.75,.25,1);
