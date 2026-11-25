@@ -340,11 +340,10 @@ body { font-family: var(--md-text-font); }
   box-shadow: none !important;
 }
 
-/* ---------- 书脊书架（真 3D） ---------- */
+/* ---------- 书脊书架（微立体） ---------- */
 .om-spines {
   display: flex; align-items: flex-end; flex-wrap: wrap;
-  gap: 0; row-gap: 1.6rem; padding: .9rem 0 .4rem;
-  perspective: 1600px;
+  gap: 3px; row-gap: 1.4rem; padding: .7rem 0 .4rem;
 }
 .om-dom-group { margin: 0 0 1.5rem; }
 .om-dom-group[hidden] { display: none; }
@@ -358,48 +357,46 @@ body { font-family: var(--md-text-font); }
   font-family: var(--md-text-font); font-size: .68rem;
   letter-spacing: .08em; color: var(--om-muted);
 }
-
-.om-spine { position: relative; flex: 0 0 auto; z-index: 1; width: calc(var(--th, 36px) + 38px); }
+.om-spine { position: relative; flex: 0 0 auto; }
 .om-spine[hidden] { display: none; }
-.om-spine.is-open, .om-spine:hover { z-index: 6; }
+.om-spine.is-open, .om-spine:hover { z-index: 4; }
 
-/* 书本本体：一个有厚度的盒子，书脊朝前、封面朝右后方 */
 .md-typeset a.om-spine__link {
   position: relative; display: flex; flex-direction: column;
   align-items: center; justify-content: space-between;
   width: var(--th, 36px); height: 250px; padding: 16px 0 13px;
-  color: var(--ink, rgba(255,255,255,.93)); text-decoration: none; overflow: visible;
+  color: var(--ink, rgba(255,255,255,.93));
+  text-decoration: none; overflow: hidden;
   background:
-    /* 书脊两端的压痕（装订时订口折出来的沟） */
+    /* 订口压痕 */
     linear-gradient(90deg,
-      rgba(0,0,0,.42) 0px, rgba(0,0,0,.16) 2px, rgba(0,0,0,0) 5px,
-      rgba(0,0,0,0) calc(100% - 5px), rgba(0,0,0,.18) calc(100% - 2px), rgba(0,0,0,.4) 100%),
-    /* 布纹：细密的经纬线 */
+      rgba(0,0,0,.40) 0px, rgba(0,0,0,.15) 2px, rgba(0,0,0,0) 5px,
+      rgba(0,0,0,0) calc(100% - 5px), rgba(0,0,0,.17) calc(100% - 2px), rgba(0,0,0,.38) 100%),
+    /* 布纹 */
     repeating-linear-gradient(90deg,
       rgba(255,255,255,.045) 0 1px, rgba(0,0,0,.045) 1px 2px),
     repeating-linear-gradient(0deg,
       rgba(255,255,255,.035) 0 1px, rgba(0,0,0,.05) 1px 3px),
     /* 弧面受光 */
     linear-gradient(90deg,
-      rgba(0,0,0,.34) 0%, rgba(0,0,0,.08) 18%,
-      rgba(255,255,255,.13) 44%, rgba(255,255,255,.02) 66%,
-      rgba(0,0,0,.16) 87%, rgba(0,0,0,.32) 100%),
+      rgba(0,0,0,.32) 0%, rgba(0,0,0,.09) 17%,
+      rgba(255,255,255,.14) 43%, rgba(255,255,255,.03) 65%,
+      rgba(0,0,0,.15) 86%, rgba(0,0,0,.30) 100%),
     var(--sp);
-  /* 落地投影 + 书脊上下两道压印横线（精装书常见的装饰线） */
+  border-radius: 1px 3px 3px 1px;
   box-shadow:
-    0 3px 8px rgba(0,0,0,.26),
+    0 2px 6px rgba(0,0,0,.24),
     inset 0 31px 0 -30px rgba(255,255,255,.26),
     inset 0 35px 0 -34px rgba(0,0,0,.26),
     inset 0 -16px 0 -15px rgba(255,255,255,.22),
     inset 0 -20px 0 -19px rgba(0,0,0,.24);
-  transform-style: preserve-3d;
-  transform: rotateY(-13deg);
-  transition: transform .5s cubic-bezier(.2,.75,.25,1);
+  transition: width .45s cubic-bezier(.2,.75,.25,1);
 }
-/* 顶部书口 */
+/* 顶部书口（纸页断面） */
 .om-spine__link::before {
   content: ""; position: absolute; top: 0; left: 0; right: 0; height: 5px; z-index: 2;
   background: linear-gradient(#F6F2EA, #CFC7B6);
+  border-radius: 1px 2px 0 0; transition: opacity .25s;
 }
 .om-spine:nth-child(3n)   .om-spine__link { height: 264px; }
 .om-spine:nth-child(4n+1) .om-spine__link { height: 240px; }
@@ -412,51 +409,47 @@ body { font-family: var(--md-text-font); }
 .om-spine:nth-child(7n+6) { --th: 33px; }
 .om-spine:nth-child(7n+7) { --th: 39px; }
 
-.om-spine__num { font-size: .55rem; letter-spacing: .1em; opacity: .7; }
+.om-spine__num { font-size: .55rem; letter-spacing: .1em; opacity: .62; }
 .om-spine__title {
   writing-mode: vertical-rl; font-family: var(--om-display);
   font-size: .78rem; letter-spacing: .14em; line-height: 1.1;
-  max-height: 180px; overflow: hidden;
+  max-height: 184px; overflow: hidden;
 }
-/* 封面：贴在书脊右缘，向后折 90 度 */
 .md-typeset img.om-spine__cover {
-  position: absolute; top: 0; left: 100%;
-  width: 150px; max-width: none; height: 100%; opacity: 1;
-  transform-origin: left center; transform: rotateY(90deg);
-  object-fit: cover; background: var(--om-paper);
-  box-shadow: inset 12px 0 24px rgba(0,0,0,.34);
+  position: absolute; inset: 0; width: 100%; max-width: none; height: 100%; z-index: 3;
+  object-fit: cover; opacity: 0; transition: opacity .35s .1s;
 }
 .om-spine.is-new .om-spine__link::after {
   content: ""; position: absolute; top: 5px; left: 0; right: 0; height: 3px;
-  background: currentColor; opacity: .85; z-index: 2;
+  background: currentColor; opacity: .85; z-index: 2; transition: opacity .25s;
 }
 .md-typeset a.om-spine__dl {
-  display: block; margin-top: .55rem; font-size: .6rem; letter-spacing: .08em;
+  display: block; margin-top: .5rem; font-size: .6rem; letter-spacing: .08em;
   color: var(--om-muted); text-decoration: none; text-align: center;
   opacity: 0; transition: opacity .25s;
 }
 .md-typeset a.om-spine__dl:hover { color: var(--om-ink); }
 
-/* 转出来看封面 */
-.md-typeset .om-spine.is-open a.om-spine__link {
-  transform: rotateY(-72deg) translateZ(42px) translateX(-6px);
-}
+/* 展开看封面 */
+.md-typeset .om-spine.is-open a.om-spine__link { width: 188px; }
+.om-spine.is-open .om-spine__cover { opacity: 1; }
 .om-spine.is-open .om-spine__link::before,
 .om-spine.is-open .om-spine__link::after { opacity: 0; }
+.om-spine.is-open .om-spine__num,
+.om-spine.is-open .om-spine__title { opacity: 0; transition: opacity .15s; }
 .om-spine.is-open .om-spine__dl { opacity: 1; }
 
 @media (hover: hover) {
-  .md-typeset .om-spine:hover a.om-spine__link {
-    transform: rotateY(-72deg) translateZ(42px) translateX(-6px);
-  }
+  .md-typeset .om-spine:hover a.om-spine__link { width: 188px; }
+  .om-spine:hover .om-spine__cover { opacity: 1; }
   .om-spine:hover .om-spine__link::before,
   .om-spine:hover .om-spine__link::after { opacity: 0; }
+  .om-spine:hover .om-spine__num,
+  .om-spine:hover .om-spine__title { opacity: 0; transition: opacity .15s; }
   .om-spine:hover .om-spine__dl { opacity: 1; }
 }
 
 @media (max-width: 600px) {
-  .om-spines { perspective: 1100px; }
-  .om-spine { width: calc(var(--th, 30px) + 27px); }
   .md-typeset a.om-spine__link { height: 208px; }
   .om-spine:nth-child(3n)   .om-spine__link { height: 218px; }
   .om-spine:nth-child(4n+1) .om-spine__link { height: 200px; }
@@ -467,6 +460,6 @@ body { font-family: var(--md-text-font); }
   .om-spine:nth-child(7n+5) { --th: 31px; }
   .om-spine:nth-child(7n+6) { --th: 28px; }
   .om-spine:nth-child(7n+7) { --th: 34px; }
-  .md-typeset img.om-spine__cover { width: 104px; }
-  .om-spine__title { max-height: 148px; font-size: .72rem; }
+  .md-typeset .om-spine.is-open a.om-spine__link { width: 156px; }
+  .om-spine__title { max-height: 150px; font-size: .72rem; }
 }
