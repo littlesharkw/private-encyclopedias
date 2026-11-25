@@ -368,7 +368,7 @@ body { font-family: var(--md-text-font); }
   position: relative; display: flex; flex-direction: column;
   align-items: center; justify-content: space-between;
   width: var(--th, 36px); height: 250px; padding: 16px 0 13px;
-  color: rgba(255,255,255,.93); text-decoration: none; overflow: visible;
+  color: var(--ink, rgba(255,255,255,.93)); text-decoration: none; overflow: visible;
   background:
     /* 书脊两端的压痕（装订时订口折出来的沟） */
     linear-gradient(90deg,
@@ -428,7 +428,7 @@ body { font-family: var(--md-text-font); }
 }
 .om-spine.is-new .om-spine__link::after {
   content: ""; position: absolute; top: 5px; left: 0; right: 0; height: 3px;
-  background: #fff; z-index: 2;
+  background: currentColor; opacity: .85; z-index: 2;
 }
 .md-typeset a.om-spine__dl {
   display: block; margin-top: .55rem; font-size: .6rem; letter-spacing: .08em;

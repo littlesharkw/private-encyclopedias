@@ -22,7 +22,7 @@ hide:
 <section class="om-dom-group" data-dom="世界">
 <p class="om-dom">世界<span>19 本</span></p>
 <div class="om-spines">
-<div class="om-spine" data-dom="世界" data-series="北欧旅行百科" data-added="2026-09-16" data-file="iceland.pdf" style="--sp:#7C2E2E">
+<div class="om-spine" data-dom="世界" data-series="北欧旅行百科" data-added="2026-09-16" data-file="iceland.pdf" style="--sp:#2A3859;--ink:rgba(255,255,255,.93)">
 <a class="om-spine__link" href="world/europe/iceland/">
 <span class="om-spine__num"></span>
 <span class="om-spine__title">冰岛</span>
@@ -30,7 +30,7 @@ hide:
 </a>
 <a class="om-spine__dl" href="https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/iceland.pdf">下载 PDF</a>
 </div>
-<div class="om-spine" data-dom="世界" data-series="中国城市百科" data-added="2026-11-24" data-file="beijing.pdf" style="--sp:#86702C">
+<div class="om-spine" data-dom="世界" data-series="中国城市百科" data-added="2026-11-24" data-file="beijing.pdf" style="--sp:#E5DFD2;--ink:#2A2622">
 <a class="om-spine__link" href="world/asia/china/beijing/">
 <span class="om-spine__num"></span>
 <span class="om-spine__title">北京</span>
@@ -38,7 +38,7 @@ hide:
 </a>
 <a class="om-spine__dl" href="https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/beijing.pdf">下载 PDF</a>
 </div>
-<div class="om-spine" data-dom="世界" data-series="法国城市百科" data-added="2026-09-16" data-file="nice.pdf" style="--sp:#27525F">
+<div class="om-spine" data-dom="世界" data-series="法国城市百科" data-added="2026-09-16" data-file="nice.pdf" style="--sp:#374868;--ink:rgba(255,255,255,.93)">
 <a class="om-spine__link" href="world/europe/france/provence-alpes-cote-dazur/nice/">
 <span class="om-spine__num">005</span>
 <span class="om-spine__title">尼斯</span>
@@ -46,7 +46,7 @@ hide:
 </a>
 <a class="om-spine__dl" href="https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/nice.pdf">下载 PDF</a>
 </div>
-<div class="om-spine" data-dom="世界" data-series="法国城市百科" data-added="2026-09-16" data-file="villefranche-sur-mer.pdf" style="--sp:#44525E">
+<div class="om-spine" data-dom="世界" data-series="法国城市百科" data-added="2026-09-16" data-file="villefranche-sur-mer.pdf" style="--sp:#D3CABA;--ink:#2A2622">
 <a class="om-spine__link" href="world/europe/france/provence-alpes-cote-dazur/villefranche-sur-mer/">
 <span class="om-spine__num">012</span>
 <span class="om-spine__title">滨海自由城</span>
@@ -54,7 +54,7 @@ hide:
 </a>
 <a class="om-spine__dl" href="https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/villefranche-sur-mer.pdf">下载 PDF</a>
 </div>
-<div class="om-spine" data-dom="世界" data-series="法国城市百科" data-added="2026-09-16" data-file="eze.pdf" style="--sp:#9C7E2A">
+<div class="om-spine" data-dom="世界" data-series="法国城市百科" data-added="2026-09-16" data-file="eze.pdf" style="--sp:#45587C;--ink:rgba(255,255,255,.93)">
 <a class="om-spine__link" href="world/europe/france/provence-alpes-cote-dazur/eze/">
 <span class="om-spine__num">013</span>
 <span class="om-spine__title">埃兹</span>
@@ -62,7 +62,7 @@ hide:
 </a>
 <a class="om-spine__dl" href="https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/eze.pdf">下载 PDF</a>
 </div>
-<div class="om-spine" data-dom="世界" data-series="法国城市百科" data-added="2026-09-16" data-file="menton.pdf" style="--sp:#2B5A58">
+<div class="om-spine" data-dom="世界" data-series="法国城市百科" data-added="2026-09-16" data-file="menton.pdf" style="--sp:#C2B8A6;--ink:#2A2622">
 <a class="om-spine__link" href="world/europe/france/provence-alpes-cote-dazur/menton/">
 <span class="om-spine__num">015</span>
 <span class="om-spine__title">芒通</span>
@@ -70,7 +70,7 @@ hide:
 </a>
 <a class="om-spine__dl" href="https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/menton.pdf">下载 PDF</a>
 </div>
-<div class="om-spine" data-dom="世界" data-series="法国城市百科" data-added="2026-09-16" data-file="cassis.pdf" style="--sp:#4C3047">
+<div class="om-spine" data-dom="世界" data-series="法国城市百科" data-added="2026-09-16" data-file="cassis.pdf" style="--sp:#1F2B46;--ink:rgba(255,255,255,.93)">
 <a class="om-spine__link" href="world/europe/france/provence-alpes-cote-dazur/cassis/">
 <span class="om-spine__num">023</span>
 <span class="om-spine__title">卡西斯</span>
@@ -78,7 +78,7 @@ hide:
 </a>
 <a class="om-spine__dl" href="https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/cassis.pdf">下载 PDF</a>
 </div>
-<div class="om-spine" data-dom="世界" data-series="法国城市百科" data-added="2026-09-16" data-file="marseille.pdf" style="--sp:#935426">
+<div class="om-spine" data-dom="世界" data-series="法国城市百科" data-added="2026-09-16" data-file="marseille.pdf" style="--sp:#EAE5DA;--ink:#2A2622">
 <a class="om-spine__link" href="world/europe/france/provence-alpes-cote-dazur/marseille/">
 <span class="om-spine__num">022</span>
 <span class="om-spine__title">马赛</span>
@@ -86,7 +86,7 @@ hide:
 </a>
 <a class="om-spine__dl" href="https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/marseille.pdf">下载 PDF</a>
 </div>
-<div class="om-spine" data-dom="世界" data-series="法国城市百科" data-added="2026-09-16" data-file="avignon.pdf" style="--sp:#2F5440">
+<div class="om-spine" data-dom="世界" data-series="法国城市百科" data-added="2026-09-16" data-file="avignon.pdf" style="--sp:#2A3859;--ink:rgba(255,255,255,.93)">
 <a class="om-spine__link" href="world/europe/france/provence-alpes-cote-dazur/avignon/">
 <span class="om-spine__num">018</span>
 <span class="om-spine__title">阿维尼翁</span>
@@ -94,7 +94,7 @@ hide:
 </a>
 <a class="om-spine__dl" href="https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/avignon.pdf">下载 PDF</a>
 </div>
-<div class="om-spine" data-dom="世界" data-series="法国城市百科" data-added="2026-09-16" data-file="arles.pdf" style="--sp:#573A60">
+<div class="om-spine" data-dom="世界" data-series="法国城市百科" data-added="2026-09-16" data-file="arles.pdf" style="--sp:#E5DFD2;--ink:#2A2622">
 <a class="om-spine__link" href="world/europe/france/provence-alpes-cote-dazur/arles/">
 <span class="om-spine__num">016</span>
 <span class="om-spine__title">阿尔勒</span>
@@ -102,7 +102,7 @@ hide:
 </a>
 <a class="om-spine__dl" href="https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/arles.pdf">下载 PDF</a>
 </div>
-<div class="om-spine" data-dom="世界" data-series="法国城市百科" data-added="2026-10-17" data-file="aix-en-provence.pdf" style="--sp:#9B4530">
+<div class="om-spine" data-dom="世界" data-series="法国城市百科" data-added="2026-10-17" data-file="aix-en-provence.pdf" style="--sp:#374868;--ink:rgba(255,255,255,.93)">
 <a class="om-spine__link" href="world/europe/france/provence-alpes-cote-dazur/aix-en-provence/">
 <span class="om-spine__num">024</span>
 <span class="om-spine__title">普罗旺斯艾克斯</span>
@@ -110,7 +110,7 @@ hide:
 </a>
 <a class="om-spine__dl" href="https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/aix-en-provence.pdf">下载 PDF</a>
 </div>
-<div class="om-spine" data-dom="世界" data-series="法国城市百科" data-added="2026-10-17" data-file="nimes.pdf" style="--sp:#4C6B3C">
+<div class="om-spine" data-dom="世界" data-series="法国城市百科" data-added="2026-10-17" data-file="nimes.pdf" style="--sp:#D3CABA;--ink:#2A2622">
 <a class="om-spine__link" href="world/europe/france/occitanie/nimes/">
 <span class="om-spine__num">026</span>
 <span class="om-spine__title">尼姆</span>
@@ -118,7 +118,7 @@ hide:
 </a>
 <a class="om-spine__dl" href="https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/nimes.pdf">下载 PDF</a>
 </div>
-<div class="om-spine" data-dom="世界" data-series="法国城市百科" data-added="2026-09-16" data-file="lyon.pdf" style="--sp:#3B3F6E">
+<div class="om-spine" data-dom="世界" data-series="法国城市百科" data-added="2026-09-16" data-file="lyon.pdf" style="--sp:#45587C;--ink:rgba(255,255,255,.93)">
 <a class="om-spine__link" href="world/europe/france/auvergne-rhone-alpes/lyon/">
 <span class="om-spine__num">019</span>
 <span class="om-spine__title">里昂</span>
@@ -126,7 +126,7 @@ hide:
 </a>
 <a class="om-spine__dl" href="https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/lyon.pdf">下载 PDF</a>
 </div>
-<div class="om-spine" data-dom="世界" data-series="法国城市百科" data-added="2026-09-16" data-file="monaco.pdf" style="--sp:#8A3038">
+<div class="om-spine" data-dom="世界" data-series="法国城市百科" data-added="2026-09-16" data-file="monaco.pdf" style="--sp:#C2B8A6;--ink:#2A2622">
 <a class="om-spine__link" href="world/europe/monaco/">
 <span class="om-spine__num">014</span>
 <span class="om-spine__title">摩纳哥</span>
@@ -134,7 +134,7 @@ hide:
 </a>
 <a class="om-spine__dl" href="https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/monaco.pdf">下载 PDF</a>
 </div>
-<div class="om-spine" data-dom="世界" data-series="瑞士城市百科" data-added="2026-09-16" data-file="basel.pdf" style="--sp:#64702F">
+<div class="om-spine" data-dom="世界" data-series="瑞士城市百科" data-added="2026-09-16" data-file="basel.pdf" style="--sp:#1F2B46;--ink:rgba(255,255,255,.93)">
 <a class="om-spine__link" href="world/europe/switzerland/basel/">
 <span class="om-spine__num">001</span>
 <span class="om-spine__title">巴塞尔</span>
@@ -142,7 +142,7 @@ hide:
 </a>
 <a class="om-spine__dl" href="https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/basel.pdf">下载 PDF</a>
 </div>
-<div class="om-spine" data-dom="世界" data-series="德国城市百科" data-added="2026-11-24" data-file="munich.pdf" style="--sp:#2B3E63">
+<div class="om-spine" data-dom="世界" data-series="德国城市百科" data-added="2026-11-24" data-file="munich.pdf" style="--sp:#EAE5DA;--ink:#2A2622">
 <a class="om-spine__link" href="world/europe/germany/munich/">
 <span class="om-spine__num">025</span>
 <span class="om-spine__title">慕尼黑</span>
@@ -150,7 +150,7 @@ hide:
 </a>
 <a class="om-spine__dl" href="https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/munich.pdf">下载 PDF</a>
 </div>
-<div class="om-spine" data-dom="世界" data-series="加拿大城市百科" data-added="2026-09-16" data-file="woodstock.pdf" style="--sp:#7C2E2E">
+<div class="om-spine" data-dom="世界" data-series="加拿大城市百科" data-added="2026-09-16" data-file="woodstock.pdf" style="--sp:#2A3859;--ink:rgba(255,255,255,.93)">
 <a class="om-spine__link" href="world/north-america/canada/ontario/woodstock/">
 <span class="om-spine__num"></span>
 <span class="om-spine__title">伍德斯托克</span>
@@ -158,7 +158,7 @@ hide:
 </a>
 <a class="om-spine__dl" href="https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/woodstock.pdf">下载 PDF</a>
 </div>
-<div class="om-spine" data-dom="世界" data-series="加拿大主题图鉴" data-added="2026-10-17" data-file="ontario-dairy.pdf" style="--sp:#86702C">
+<div class="om-spine" data-dom="世界" data-series="加拿大主题图鉴" data-added="2026-10-17" data-file="ontario-dairy.pdf" style="--sp:#E5DFD2;--ink:#2A2622">
 <a class="om-spine__link" href="world/north-america/canada/ontario/dairy-trail/">
 <span class="om-spine__num"></span>
 <span class="om-spine__title">安省鲜奶图鉴</span>
@@ -166,7 +166,7 @@ hide:
 </a>
 <a class="om-spine__dl" href="https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/ontario-dairy.pdf">下载 PDF</a>
 </div>
-<div class="om-spine" data-dom="世界" data-series="美国城市百科" data-added="2026-11-24" data-file="seattle.pdf" style="--sp:#27525F">
+<div class="om-spine" data-dom="世界" data-series="美国城市百科" data-added="2026-11-24" data-file="seattle.pdf" style="--sp:#374868;--ink:rgba(255,255,255,.93)">
 <a class="om-spine__link" href="world/north-america/usa/washington/seattle/">
 <span class="om-spine__num"></span>
 <span class="om-spine__title">西雅图</span>
@@ -179,7 +179,7 @@ hide:
 <section class="om-dom-group" data-dom="生活 · 科技 · 身体 · 自然">
 <p class="om-dom">生活 · 科技 · 身体 · 自然<span>4 本</span></p>
 <div class="om-spines">
-<div class="om-spine" data-dom="生活" data-series="生活" data-added="2026-11-24" data-file="perfume.pdf" style="--sp:#44525E">
+<div class="om-spine" data-dom="生活" data-series="生活" data-added="2026-11-24" data-file="perfume.pdf" style="--sp:#D3CABA;--ink:#2A2622">
 <a class="om-spine__link" href="life/perfume/">
 <span class="om-spine__num"></span>
 <span class="om-spine__title">香水世界</span>
@@ -187,7 +187,7 @@ hide:
 </a>
 <a class="om-spine__dl" href="https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/perfume.pdf">下载 PDF</a>
 </div>
-<div class="om-spine" data-dom="科技" data-series="科技" data-added="2026-10-17" data-file="quantum.pdf" style="--sp:#9C7E2A">
+<div class="om-spine" data-dom="科技" data-series="科技" data-added="2026-10-17" data-file="quantum.pdf" style="--sp:#45587C;--ink:rgba(255,255,255,.93)">
 <a class="om-spine__link" href="tech/quantum/">
 <span class="om-spine__num"></span>
 <span class="om-spine__title">量子计算机图鉴</span>
@@ -195,7 +195,7 @@ hide:
 </a>
 <a class="om-spine__dl" href="https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/quantum.pdf">下载 PDF</a>
 </div>
-<div class="om-spine" data-dom="身体" data-series="身体" data-added="2026-09-18" data-file="sleep.pdf" style="--sp:#2B5A58">
+<div class="om-spine" data-dom="身体" data-series="身体" data-added="2026-09-18" data-file="sleep.pdf" style="--sp:#C2B8A6;--ink:#2A2622">
 <a class="om-spine__link" href="body/sleep/">
 <span class="om-spine__num"></span>
 <span class="om-spine__title">睡眠图鉴</span>
@@ -203,7 +203,7 @@ hide:
 </a>
 <a class="om-spine__dl" href="https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/sleep.pdf">下载 PDF</a>
 </div>
-<div class="om-spine" data-dom="自然" data-series="自然" data-added="2026-09-19" data-file="flowers.pdf" style="--sp:#4C3047">
+<div class="om-spine" data-dom="自然" data-series="自然" data-added="2026-09-19" data-file="flowers.pdf" style="--sp:#1F2B46;--ink:rgba(255,255,255,.93)">
 <a class="om-spine__link" href="nature/flowers/">
 <span class="om-spine__num"></span>
 <span class="om-spine__title">花的观察图鉴</span>
