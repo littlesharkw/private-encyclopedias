@@ -342,9 +342,20 @@ body { font-family: var(--md-text-font); }
 
 /* ---------- 书脊书架 ---------- */
 .om-spines {
-  display: flex; align-items: flex-end; gap: 3px;
-  overflow-x: auto; padding: .6rem 0 1.6rem;
-  scrollbar-width: thin; -webkit-overflow-scrolling: touch;
+  display: flex; align-items: flex-end; flex-wrap: wrap;
+  gap: 3px; row-gap: 1.4rem; padding: .7rem 0 .4rem;
+}
+.om-dom-group { margin: 0 0 1.5rem; }
+.om-dom-group[hidden] { display: none; }
+.md-typeset p.om-dom {
+  display: flex; justify-content: space-between; align-items: baseline;
+  font-family: var(--om-display); font-size: 1rem; letter-spacing: .14em;
+  margin: 1.5rem 0 0; padding-bottom: .45rem;
+  border-bottom: 1px solid var(--om-line); color: var(--om-ink);
+}
+.md-typeset p.om-dom span {
+  font-family: var(--md-text-font); font-size: .68rem;
+  letter-spacing: .08em; color: var(--om-muted);
 }
 .om-spine { position: relative; flex: 0 0 auto; }
 .om-spine[hidden] { display: none; }
