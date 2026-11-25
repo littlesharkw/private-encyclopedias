@@ -25,6 +25,12 @@ hide:
 |---|---|
 | [量子计算机图鉴](tech/quantum/index.md) | [📥 下载](https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/quantum.pdf) |
 
+## 生活
+
+| 名称 | 下载 |
+|---|---|
+| [香水世界](life/perfume/index.md) | [📥 下载](https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/perfume.pdf) |
+
 ## 北欧旅行百科
 
 | 名称 | 下载 |
