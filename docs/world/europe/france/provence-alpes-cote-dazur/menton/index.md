@@ -25,7 +25,7 @@ tags:
 
 <p class="om-size">10 个主题</p>
 
-[📥 下载 PDF：法国城市百科 · 芒通 Menton](https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/menton.pdf){ .md-button .md-button--primary }
+[下载 PDF：法国城市百科 · 芒通 Menton](https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/menton.pdf){ .md-button .md-button--primary }
 
 </div>
 
@@ -35,7 +35,9 @@ tags:
 
 芒通位于法国最东端，紧邻意大利边境，被称为「柠檬之城」。本册从法意交融的城市性格讲起，介绍芒通柠檬的来历、彩色老城与巴洛克教堂，再走到植物园、旧城堡高地，最后沿海步行到意大利边境。
 
-**关键词**：芒通柠檬、柠檬节 Fête du Citron、AOP、Marché des Halles、Rue Saint-Michel、圣米迦勒圣殿、Vieux-Château、Val Rahmeh 植物园、Garavan、Pont Saint-Louis、Ventimiglia、法意边境
+??? note "搜索关键词"
+
+    芒通柠檬、柠檬节 Fête du Citron、AOP、Marché des Halles、Rue Saint-Michel、圣米迦勒圣殿、Vieux-Château、Val Rahmeh 植物园、Garavan、Pont Saint-Louis、Ventimiglia、法意边境
 
 ## 收录章节
 

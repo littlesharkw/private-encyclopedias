@@ -25,7 +25,7 @@ tags:
 
 <p class="om-size">5 个主题</p>
 
-[📥 下载 PDF：法国城市百科 · 卡西斯 Cassis](https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/cassis.pdf){ .md-button .md-button--primary }
+[下载 PDF：法国城市百科 · 卡西斯 Cassis](https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/cassis.pdf){ .md-button .md-button--primary }
 
 </div>
 
@@ -35,7 +35,9 @@ tags:
 
 卡西斯是马赛东南方的港口小镇，也是进入 Calanques 国家公园的门户。本册讲小镇的魅力、白色石灰岩峡湾的形成，并附三大峡湾徒步地图、游船怎么选，以及法国最早的 AOC 产区之一卡西斯葡萄酒。
 
-**关键词**：Calanques 国家公园、峡湾、石灰岩、Port-Miou、Port-Pin、En-Vau、徒步路线、Calanques 游船、Cap Canaille、Cassis 白葡萄酒、AOC
+??? note "搜索关键词"
+
+    Calanques 国家公园、峡湾、石灰岩、Port-Miou、Port-Pin、En-Vau、徒步路线、Calanques 游船、Cap Canaille、Cassis 白葡萄酒、AOC
 
 ## 收录章节
 

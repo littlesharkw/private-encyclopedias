@@ -24,7 +24,7 @@ tags:
 
 <p class="om-size">8 个主题</p>
 
-[📥 下载 PDF：北欧旅行百科 · 冰岛](https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/iceland.pdf){ .md-button .md-button--primary }
+[下载 PDF：北欧旅行百科 · 冰岛](https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/iceland.pdf){ .md-button .md-button--primary }
 
 </div>
 
@@ -34,7 +34,9 @@ tags:
 
 一本 58 篇的冰岛深度图鉴。先从火山、地热与冰川认识这座岛，再依次走过雷克雅未克、黄金圈、南岸、瓦特纳冰川、东部与地热小镇，最后介绍旅途中处处会遇到的冰岛马、海鹦、天气与极光。
 
-**关键词**：火山、地热、冰川、瀑布、维京人、Reykjanes、蓝湖 Blue Lagoon、雷克雅未克、Hallgrímskirkja、黄金圈 Golden Circle、Þingvellir 板块裂谷、Geysir、Strokkur、Gullfoss、Kerið、南岸、Seljalandsfoss、Skógafoss、Eyjafjallajökull、黑沙滩 Reynisfjara、玄武岩、Vík、Vatnajökull、冰河湖、Höfn、Hveragerði、冰岛马、海鹦、Route 1、极光
+??? note "搜索关键词"
+
+    火山、地热、冰川、瀑布、维京人、Reykjanes、蓝湖 Blue Lagoon、雷克雅未克、Hallgrímskirkja、黄金圈 Golden Circle、Þingvellir 板块裂谷、Geysir、Strokkur、Gullfoss、Kerið、南岸、Seljalandsfoss、Skógafoss、Eyjafjallajökull、黑沙滩 Reynisfjara、玄武岩、Vík、Vatnajökull、冰河湖、Höfn、Hveragerði、冰岛马、海鹦、Route 1、极光
 
 ## 收录章节
 

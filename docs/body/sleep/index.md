@@ -17,7 +17,7 @@ tags:
 
 <p class="om-size">119 页（000–118）／11 章</p>
 
-[📥 下载 PDF：睡眠 · 私人百科图鉴（v1.0）](https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/sleep.pdf){ .md-button .md-button--primary }
+[下载 PDF：睡眠 · 私人百科图鉴（v1.0）](https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/sleep.pdf){ .md-button .md-button--primary }
 
 </div>
 
@@ -27,7 +27,9 @@ tags:
 
 以第二人称对话方式，解释睡眠背后的「为什么」，再在实践章节提供具体做法，每页结尾都有「So What？」栏位。从睡眠的生理机制讲起，依次谈一夜的结构、两大驱动力、睡不好的各种原因、物质与环境的影响、梦、失眠的不同形状、不同人生阶段的睡眠，最后给出可执行的改造工程与验证方法。
 
-**关键词**：睡眠周期、N1／N2／N3／REM、慢波睡眠、昼夜节律、褪黑激素、光照、Process S、Process C、腺苷、咖啡因、酒精、尼古丁、过度觉醒、心理循环、环境、情绪与压力、梦、REM、做梦、失眠、CBT-I、睡眠限制、刺激控制、轮班、时差、儿童与青少年睡眠、孕期、更年期、打鼾、睡眠呼吸、睡眠监测、正念、放松
+??? note "搜索关键词"
+
+    睡眠周期、N1／N2／N3／REM、慢波睡眠、昼夜节律、褪黑激素、光照、Process S、Process C、腺苷、咖啡因、酒精、尼古丁、过度觉醒、心理循环、环境、情绪与压力、梦、REM、做梦、失眠、CBT-I、睡眠限制、刺激控制、轮班、时差、儿童与青少年睡眠、孕期、更年期、打鼾、睡眠呼吸、睡眠监测、正念、放松
 
 ## 收录章节
 

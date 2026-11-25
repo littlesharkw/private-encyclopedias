@@ -25,7 +25,7 @@ tags:
 
 <p class="om-size">5 个主题</p>
 
-[📥 下载 PDF：法国城市百科 · 埃兹 Èze](https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/eze.pdf){ .md-button .md-button--primary }
+[下载 PDF：法国城市百科 · 埃兹 Èze](https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/eze.pdf){ .md-button .md-button--primary }
 
 </div>
 
@@ -35,7 +35,9 @@ tags:
 
 埃兹是建在海拔约 400 米悬崖上的石头村庄。本册讲村庄为什么建在崖顶、中世纪城门与小巷的防御设计、Jardin Exotique 仙人掌花园、欣赏地中海全景的最佳位置，并延伸到蔚蓝海岸的香水文化。
 
-**关键词**：悬崖村庄、鹰巢村、Jardin Exotique、多肉植物、地中海全景、圣让卡普费拉、尼采小径、Fragonard、Grasse、香水
+??? note "搜索关键词"
+
+    悬崖村庄、鹰巢村、Jardin Exotique、多肉植物、地中海全景、圣让卡普费拉、尼采小径、Fragonard、Grasse、香水
 
 ## 收录章节
 

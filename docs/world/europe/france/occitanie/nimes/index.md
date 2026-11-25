@@ -25,7 +25,7 @@ tags:
 
 <p class="om-size">12 个主题</p>
 
-[📥 下载 PDF：法国城市百科 · 尼姆 Nîmes](https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/nimes.pdf){ .md-button .md-button--primary }
+[下载 PDF：法国城市百科 · 尼姆 Nîmes](https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/nimes.pdf){ .md-button .md-button--primary }
 
 </div>
 
@@ -35,7 +35,9 @@ tags:
 
 尼姆被称为「法国的罗马」，保存着欧洲最完整的一批罗马建筑。本册从罗马人为什么选择这片泉水之地建城讲起，解剖竞技场的建筑与它两千年来的身份变化，再走到方形神殿、戴安娜神庙、泉水花园与山顶的马涅塔，并沿引水渠一路延伸到加尔桥，最后谈城徽上的鳄鱼与棕榈树，以及尼姆为什么成为法国的斗牛之城。
 
-**关键词**：法国的罗马、Nemausus、泉水、罗马殖民城、Via Domitia、罗马城墙、鳄鱼与棕榈树、COL NEM 城徽、Augustus、Arènes de Nîmes、罗马竞技场、椭圆形、vomitoria、角斗场、城市堡垒、Maison Carrée、方形神殿、Temple de Diane、Jardins de la Fontaine、Source de Nemausus、Tour Magne、Pont du Gard、引水渠、Feria、斗牛、Occitanie、Gard
+??? note "搜索关键词"
+
+    法国的罗马、Nemausus、泉水、罗马殖民城、Via Domitia、罗马城墙、鳄鱼与棕榈树、COL NEM 城徽、Augustus、Arènes de Nîmes、罗马竞技场、椭圆形、vomitoria、角斗场、城市堡垒、Maison Carrée、方形神殿、Temple de Diane、Jardins de la Fontaine、Source de Nemausus、Tour Magne、Pont du Gard、引水渠、Feria、斗牛、Occitanie、Gard
 
 ## 收录章节
 

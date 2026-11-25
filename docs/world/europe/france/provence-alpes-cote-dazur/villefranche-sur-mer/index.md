@@ -24,7 +24,7 @@ tags:
 
 <p class="om-size">3 个主题</p>
 
-[📥 下载 PDF：法国城市百科 · 滨海自由城 Villefranche-sur-Mer](https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/villefranche-sur-mer.pdf){ .md-button .md-button--primary }
+[下载 PDF：法国城市百科 · 滨海自由城 Villefranche-sur-Mer](https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/villefranche-sur-mer.pdf){ .md-button .md-button--primary }
 
 </div>
 
@@ -34,7 +34,9 @@ tags:
 
 滨海自由城是尼斯与摩纳哥之间的海湾小镇。本册围绕海湾地形、中世纪老城里的 Rue Obscure 拱廊街，以及港口彩色房屋与地中海日落展开。
 
-**关键词**：海湾、Rue Obscure、中世纪老城、港口、彩色房屋、日落、蔚蓝海岸
+??? note "搜索关键词"
+
+    海湾、Rue Obscure、中世纪老城、港口、彩色房屋、日落、蔚蓝海岸
 
 ## 收录章节
 

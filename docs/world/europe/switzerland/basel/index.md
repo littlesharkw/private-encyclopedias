@@ -24,7 +24,7 @@ tags:
 
 <p class="om-size">4 个主题</p>
 
-[📥 下载 PDF：瑞士城市百科 · 巴塞尔 Basel](https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/basel.pdf){ .md-button .md-button--primary }
+[下载 PDF：瑞士城市百科 · 巴塞尔 Basel](https://github.com/littlesharkw/private-encyclopedias/releases/download/pdf-library/basel.pdf){ .md-button .md-button--primary }
 
 </div>
 
@@ -34,7 +34,9 @@ tags:
 
 巴塞尔位于瑞士、法国、德国三国交界的莱茵河畔。本册介绍这座城市的地理与性格、从宗教改革到化学医药产业的发展，深入介绍巴塞尔美术馆的收藏，以及大教堂与周边老城。
 
-**关键词**：三国交界、莱茵河、巴塞尔大学、Erasmus、人文主义、宗教改革、印刷业、化工医药、Roche、Novartis、Kunstmuseum Basel、Holbein、印象派、毕加索、Art Basel、Basel Münster、Münsterplatz、Pfalz 观景台
+??? note "搜索关键词"
+
+    三国交界、莱茵河、巴塞尔大学、Erasmus、人文主义、宗教改革、印刷业、化工医药、Roche、Novartis、Kunstmuseum Basel、Holbein、印象派、毕加索、Art Basel、Basel Münster、Münsterplatz、Pfalz 观景台
 
 ## 收录章节
 
