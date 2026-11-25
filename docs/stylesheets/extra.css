@@ -372,11 +372,6 @@ body { font-family: var(--md-text-font); }
     linear-gradient(90deg,
       rgba(0,0,0,.40) 0px, rgba(0,0,0,.15) 2px, rgba(0,0,0,0) 5px,
       rgba(0,0,0,0) calc(100% - 5px), rgba(0,0,0,.17) calc(100% - 2px), rgba(0,0,0,.38) 100%),
-    /* 布纹 */
-    repeating-linear-gradient(90deg,
-      rgba(255,255,255,.045) 0 1px, rgba(0,0,0,.045) 1px 2px),
-    repeating-linear-gradient(0deg,
-      rgba(255,255,255,.035) 0 1px, rgba(0,0,0,.05) 1px 3px),
     /* 弧面受光 */
     linear-gradient(90deg,
       rgba(0,0,0,.32) 0%, rgba(0,0,0,.09) 17%,
